@@ -1,6 +1,6 @@
 ---  
 tags:  
-  - project  
+  - personal-project  
   - software  
   - web-development  
   - programming  
@@ -10,13 +10,13 @@ title: "Video-Based Interest Discovery"
 permalink: projects/video-based-interest-discovery/  
 ---  
 
-> “Most people don't know what they want until you give it to them.”  
+> “Most people don't know what they want until you give it to them. - Steve Jobs”  
 
-### **About the Project**  
+
 
 This project is a **video-based interest discovery tool** designed to help users uncover hidden passions, explore new hobbies, and deepen their understanding of various topics. The system creates a personalized learning experience, making education engaging and natural. It’s especially valuable for students who may need guidance in selecting a major or field of study.  
 
-### **How It Works**  
+### How It Works
 
 1. **Video Interaction**:  
    - The system presents random educational videos on a variety of topics.  
@@ -36,14 +36,14 @@ This project is a **video-based interest discovery tool** designed to help users
 5. **Reset Functionality**:  
    - Users can reset their preferences at any time to explore new areas from scratch.  
 
-### **Value Proposition for Users**  
+### Value Proposition for Users 
 
 - **Discover New Passions**: Unearth hobbies or subjects you never knew you’d enjoy.  
 - **Engage Naturally**: Learn through interactive and personalized video content.  
 - **Personalize Your Journey**: Tailor your learning experience across diverse topics and languages.  
 - **Informed Decision-Making**: Map your interests to gain clarity on potential fields of study, helping students make more confident choices about their major.  
 
-### **Current Implementation**  
+### Current Implementation 
 
 - **Backend**: Node.js  
 - **Frontend**: Bootstrap  

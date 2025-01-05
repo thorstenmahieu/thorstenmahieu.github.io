@@ -1,3 +1,16 @@
+---
+tags:
+  - school-project
+  - data-science
+  - machine-learning
+  - artificial-intelligence
+  - programming
+programming-language: MATLAB
+layout: page
+title: "Monte Carlo Simulation to Remove Spectral Leakage"
+permalink: projects/spectral-leakage-removal/
+---
+
 # Monte Carlo Simulation to Remove Spectral Leakage
 
 This project focused on addressing **spectral leakage**, a common issue in digital signal processing (DSP) when signals are not sampled coherently. Spectral leakage spreads the amplitude of frequency components into adjacent frequencies, making it challenging to determine the correct frequencies, amplitudes, and phases in the signal. A MATLAB-based solution was developed to implement both iterative and non-iterative algorithms for leakage removal.

@@ -1,6 +1,4 @@
 ---
-tags:
-  - ideas
 language: en
 
 title: "Ideas"
