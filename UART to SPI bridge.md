@@ -49,4 +49,4 @@ This project provided hands-on experience in interfacing communication protocols
 
 *Completion date*: September 2023
 
-Back to [school projects](school projects.md)
+Back to [projects](projects.md)

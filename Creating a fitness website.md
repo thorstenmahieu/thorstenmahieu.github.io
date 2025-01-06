@@ -79,4 +79,4 @@ This project provided a comprehensive learning experience in full-stack developm
 
 *Time range*: March - May 2023
 
-Back to [school projects](school projects.md)
+Back to [projects](projects.md)

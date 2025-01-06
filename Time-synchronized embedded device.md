@@ -48,4 +48,4 @@ The project successfully enabled communication between the gateway and sensor no
 *Project team*: Thorsten Mahieu, Cédric Chau  
 *Time range*: November 2023 - December 2023  
 
-Back to [school projects](school projects.md)
+Back to [projects](projects.md)

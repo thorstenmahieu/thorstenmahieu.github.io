@@ -48,4 +48,4 @@ This project demonstrated the integration of digital signal generation and seria
 
 *Completion date*: September 2023
 
-Back to [school projects](school projects.md)
+Back to [projects](projects.md)

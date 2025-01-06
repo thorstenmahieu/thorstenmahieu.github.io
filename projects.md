@@ -22,6 +22,8 @@ permalink: projects/
   {% endfor %}
 </ul>
 
+[school projects sorted by year](school-projects.md)
+
 <script>
 // Dynamically populate the dropdown with unique tags from projects
 document.addEventListener('DOMContentLoaded', function () {

@@ -25,4 +25,4 @@ Due to the project’s non-disclosure agreement (NDA), further details cannot be
 *Project supervisor*: Laure Buysse  
 *Time Range*: February 2024 - August 2024
 
-Back to [school projects](school projects.md)
+Back to [projects](projects.md)

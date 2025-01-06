@@ -49,4 +49,4 @@ The project demonstrated that **Random Forests** provided the most accurate resu
 *Project team*: Thorsten Mahieu, Cédric Chau  
 *Time range*: March 2024 - May 2024  
 
-[school projects](school projects.md)
+Back to [projects](projects.md)

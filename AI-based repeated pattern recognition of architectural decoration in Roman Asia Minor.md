@@ -15,7 +15,7 @@ permalink: projects/masters-thesis/
 ---
 {::comment} # AI-Based Pattern Recognition of Roman Architectural Decoration {:/comment}
 
-This thesis focused on developing an **AI-based system** for recognizing and segmenting decorative patterns in Roman architectural elements, specifically in the ancient region of Asia Minor.
+For my masters thesis, I focused on developing an **AI-based system** for recognizing and segmenting decorative patterns in Roman architectural elements, specifically in the ancient region of Asia Minor.
 
 ## Objectives
 
@@ -51,4 +51,4 @@ This research provided a solid foundation for further exploration of pattern cla
 *Project supervisor*: Toon Goedemé  
 *Time range*: September 2023 – June 2024  
 
-Back to [school projects](school projects.md)
+Back to [projects](projects.md)

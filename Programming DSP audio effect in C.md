@@ -72,4 +72,4 @@ The tremolo effect was successfully implemented, functioning as intended with re
 *Project supervisor*: Sammy Verslype  
 *Time range*: November - December 2023
 
-[school projects](school projects.md)
+Back to [projects](projects.md)

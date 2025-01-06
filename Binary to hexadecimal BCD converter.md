@@ -23,4 +23,4 @@ This project highlights the integration of digital design concepts and hardware 
 
 *Completion date*: June 2023
 
-Back to [school projects](school projects.md)
+Back to [projects](projects.md)

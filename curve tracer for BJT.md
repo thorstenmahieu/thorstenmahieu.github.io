@@ -46,4 +46,4 @@ This project was less fun but it greatly improved my skills to work independentl
 
 *Completion date*: September 2022
 
-Back to [school projects](school projects.md)
+Back to [projects](projects.md)

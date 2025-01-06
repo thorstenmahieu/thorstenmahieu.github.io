@@ -44,5 +44,5 @@ The **Smart IoT Bridge** project was an invaluable experience in applying IoT an
 *Project team*: Thorsten Mahieu, Kilian Bryon, Guillaume Mertens, Korneel Zutterman, Emile Serreyn  
 *Time range*: September - December 2020
 
-Back to [school projects](school projects.md)
+Back to [projects](projects.md)
 

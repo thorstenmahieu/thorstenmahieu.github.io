@@ -54,4 +54,4 @@ This project demonstrated the importance of advanced spectral leakage removal te
 
 *Time range*: October - November 2023  
 
-Back to [school projects](school projects.md)
+Back to [projects](projects.md)
