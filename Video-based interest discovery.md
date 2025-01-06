@@ -12,7 +12,7 @@ permalink: projects/video-based-interest-discovery/
 
 > “Most people don't know what they want until you give it to them. - Steve Jobs”  
 
-
+  
 
 This project is a **video-based interest discovery tool** designed to help users uncover hidden passions, explore new hobbies, and deepen their understanding of various topics. The system creates a personalized learning experience, making education engaging and natural. It’s especially valuable for students who may need guidance in selecting a major or field of study.  
 
