@@ -30,10 +30,10 @@ This group project involved designing a remote-controlled vehicle equipped with 
 
 ## System Components
 
-### **Control Application** (Karel Debedts)
+ **Control Application** (Karel Debedts)
 - Developed using **Flutter** to provide a user-friendly interface for controlling the vehicle.
 
-### **Raspberry Pi (Thorsten Mahieu)**
+ **Raspberry Pi** (Thorsten Mahieu)
 - **Hardware**: Raspberry Pi 3B+ served as the central controller.
   - Configured via SSH and VNC for headless operation.
 - **Database**:
@@ -42,10 +42,10 @@ This group project involved designing a remote-controlled vehicle equipped with 
 - **UART Communication**:
   - Configured PL011 UART for reliable GPIO communication, reassigning ports to bypass the default mini-UART.
 
-### **FPGA (Timon Callens)**
+ **FPGA** (Timon Callens)
 - Managed **UART**, **PWM**, and sensor processing for real-time motor and sensor control.
 
-### **Ultrasonic Sensor**
+ **Ultrasonic Sensor**
 - Integrated for obstacle detection with analog filtering to ensure accurate measurements.
 
 ## System Workflow

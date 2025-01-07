@@ -23,7 +23,7 @@ This project aimed to develop a **digital twin** of laboratory equipment to enha
 
 ## Tools and Frameworks
 
-- **AvaloniaUI**: C# based framework. Used for building the cross-platform graphical user interface (GUI).
+- **AvaloniaUI**: C# - and XAML-based framework. Used for building the cross-platform graphical user interface (GUI).
 - **Visual Studio 2022**: Chosen for its integration with AvaloniaUI and GitHub.
 - **GitHub**: Enabled version control and collaborative development.
 

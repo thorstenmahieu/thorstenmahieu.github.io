@@ -11,7 +11,6 @@ title: "Monte Carlo Simulation to Remove Spectral Leakage"
 permalink: projects/spectral-leakage-removal/
 ---
 
-# Monte Carlo Simulation to Remove Spectral Leakage
 
 This project focused on addressing **spectral leakage**, a common issue in digital signal processing (DSP) when signals are not sampled coherently. Spectral leakage spreads the amplitude of frequency components into adjacent frequencies, making it challenging to determine the correct frequencies, amplitudes, and phases in the signal. A MATLAB-based solution was developed to implement both iterative and non-iterative algorithms for leakage removal.
 
@@ -24,12 +23,12 @@ This project focused on addressing **spectral leakage**, a common issue in digit
 
 ## Methodology
 
-### **Theoretical Background**
+### Theoretical Background
 - Spectral leakage occurs when sampled signals do not have an integer multiple of their fundamental period.
 - Truncation errors and non-coherent sampling lead to misinterpretation of frequency components.
 - Solutions like applying windows (e.g., Hamming, Hann) are common but insufficient for complete removal of leakage.
 
-### **Algorithm Implementation**
+### Algorithm Implementation
 - **Non-Iterative Algorithm**:
   - Identifies frequency components using asymptotic behavior in the FFT spectrum.
   - Estimates amplitudes and phases of components through analytical formulas.
@@ -37,7 +36,7 @@ This project focused on addressing **spectral leakage**, a common issue in digit
   - Removes the influence of overlapping frequency components iteratively.
   - Refines estimations of frequency, amplitude, and phase through multiple iterations.
 
-### **Monte Carlo Simulation**
+### Monte Carlo Simulation
 - Tested the algorithm with varying signal lengths and frequencies (20 Hz to 5 kHz).
 - Simulated signals with up to three frequency components to evaluate the algorithm’s robustness.
 

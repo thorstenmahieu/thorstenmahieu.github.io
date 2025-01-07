@@ -51,4 +51,6 @@ This project is a **video-based interest discovery tool** designed to help users
 
 This tool is an innovative way to make learning intuitive, personalized, and exploratory, helping users grow intellectually while guiding them toward meaningful pursuits.  
 
-Back to projects[projects.md]
+---
+Status: Ongoing   
+Back to [projects](projects.md)

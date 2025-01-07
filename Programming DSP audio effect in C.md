@@ -42,20 +42,6 @@ This project involved implementing an audio effect of my choosing for an embedde
      $$
    - Ensured balanced gain and normalized output to prevent clipping.
 
-## Technology Stack
-
-- **Simulation**:
-  - MATLAB for initial design and analysis.
-- **Implementation**:
-  - DSP board: TMS320C5515.
-  - Programming: C with DSP-specific libraries in Code Composer Studio.
-  - Sinusoidal generation using fixed-point arithmetic for performance.
-
-## Workflow and Tools
-
-1. Simulated the effect in MATLAB to validate its performance.
-2. Adapted the design for the DSP board, starting from basic loopback examples.
-3. Integrated sinusoidal modulation and stereo audio processing into the DSP framework.
 
 ## Future Improvements
 

@@ -33,7 +33,8 @@ As part of a group assignment, we developed a **fitness-themed web application**
 3. **About Us**:
    - A dedicated page introducing the team behind the website.
    - Highlights our passion for fitness and technology.
-4. **Contact Us**: - A form where users can fill in their name, email, and message. - Messages are sent directly to the team via email for quick responses.
+4. **Contact Us**: 
+   - A form where users can fill in their name, email, and message. - Messages are sent directly to the team via email for quick responses.
 
 ### User Authentication
 - **Registration & Login**:
@@ -64,10 +65,6 @@ As part of a group assignment, we developed a **fitness-themed web application**
 - **Collaboration**:
   - Each team member contributed to both front-end and back-end development.
 
-## Additional Features (for a team of 4)
-- **HTML Email Notifications**:
-  - Fully designed verification emails, including branding, colors, and images.
-  - Ensures users confirm their registration before accessing the site.
 
 ## Conclusion
 
