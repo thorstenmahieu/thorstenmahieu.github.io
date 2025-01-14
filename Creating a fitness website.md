@@ -23,18 +23,26 @@ As part of a group assignment, we developed a **fitness-themed web application**
 ## Features
 
 ### Website Pages
-1. **Exercise Library**:
+1. Homepage:
+   - A welcoming and interactive homepage with a slideshow of images and content.
+   - A navigation bar with links to different sections of the website.
+2. **Exercise Library**:
    - A curated list of exercises with descriptions, images, and tips.
    - Search and filter options for exercise types (e.g., cardio, strength).
-2. **Webshop**:
+3. **Webshop**:
    - Products for sale include protein powders, protein bars, and other fitness-related items.
    - Shopping cart feature allowing users to add, remove, and review purchases.
    - Checkout process integrated with confirmation emails.
-3. **About Us**:
+4. **About Us**:
    - A dedicated page introducing the team behind the website.
    - Highlights our passion for fitness and technology.
-4. **Contact Us**: 
+5. **Contact Us**: 
    - A form where users can fill in their name, email, and message. - Messages are sent directly to the team via email for quick responses.
+
+
+<img src="/assets/fitnesswebsite.png" alt="screenshot of fitness website home page" width="screen-width" >
+> A screenshot of the fitness website's home page
+
 
 ### User Authentication
 - **Registration & Login**:
@@ -66,9 +74,7 @@ As part of a group assignment, we developed a **fitness-themed web application**
   - Each team member contributed to both front-end and back-end development.
 
 
-## Conclusion
 
-This project provided a comprehensive learning experience in full-stack development. The fitness theme allowed us to build a website that is both engaging and functional, meeting all the project requirements while incorporating additional features like email verification.
 
 ---
 
