@@ -41,7 +41,7 @@ For my masters thesis, I focused on developing an **AI-based system** for recogn
    - Highlighted areas for improvement, including more robust handling of complex or degraded patterns.
 
    
-<img src="assets/eindfoto2_DSC_0562 2023-10-02.png" alt="screenshot of end result" width="screen-width" >
+<img src="/assets/eindfoto2_DSC_0562 2023-10-02.png" alt="screenshot of end result" width="screen-width" >
 > An example of the end result image after the pipeline.
 
 ## Conclusion
