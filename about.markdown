@@ -3,6 +3,7 @@ layout: page
 title: About Me
 permalink: /about/
 ---
+Let me introduce myself:
 
 Hi, I'm Thorsten. I recently graduated in Industrial Engineering with a specialization in Electronics-ICT from KU Leuven, and I'm passionate about using technology to explore and improve the world around me.
 
