@@ -58,7 +58,7 @@ The application provides:
 - Functionality that meets the requirements for first-year students while mimicking the design of the actual equipment.
 
 <video width="screen-width" controls>
- <source src="/assets/demo_dtlabequipment.mp4" type="video/mp4 alt="demo of the application">
+ <source src="/assets/demo_dtlabequipment.mp4" type="video/mp4>
 </video>
    > A small demo of the digital twin application.
 
