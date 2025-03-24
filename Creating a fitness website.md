@@ -26,7 +26,6 @@ As part of a group assignment, we developed a **fitness-themed web application**
 1. **Homepage**:
    - A welcoming and interactive homepage with a slideshow of images and content.
    - A navigation bar with links to different sections of the website.
-   
   <img src="/assets/fitness_welcome.png" alt="screenshot of fitness website home page" width="screen-width" >
     > A screenshot of the fitness website's home page
 2. **Exercise Library**:
