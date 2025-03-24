@@ -11,9 +11,9 @@ permalink: /ict-ideas
 - Making a cloud server to host pictures, videos and notes
 - Creating an alternate reality game (ARG) and linking it to a geocache
 
- - Hidden code in spectrogram of audio
- - Hidden code in video by connecting dots
- - Vigenère cipher cryptography
+  - Hidden code in spectrogram of audio
+  - Hidden code in video by connecting dots
+  - Vigenère cipher cryptography
 
 - YouTubers collabs graph
 - Watched series timeline
