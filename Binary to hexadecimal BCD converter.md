@@ -18,6 +18,8 @@ To ensure robust functionality, an **overflow signal** is triggered if the input
 
 This project highlights the integration of digital design concepts and hardware programming to create a functional and user-interactive FPGA-based application.
 
+<img src="/assets/hexadecimal.png" alt="photo of the board with cafe" width="screen-width" >
+    > A picture of the FPGA board with the hex number "CAFE" on it (51966 in decimal), showcasing it works.
 ---
 *Project supervisor*: Sammy Verslype
 

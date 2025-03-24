@@ -36,8 +36,8 @@ This group project involved designing a **machine learning pipeline** to predict
 
 ## Results
 
-- For the base dataset, Random Forests achieved the best accuracy (86%) for multilabel classification when predicting type combinations without considering order.
-- With an expanded dataset including additional features like height, weight, and abilities, Random Forests achieved 96% accuracy under the same conditions.
+- For the [base dataset](/assets/main.html), Random Forests achieved the best accuracy (86%) for multilabel classification when predicting type combinations without considering order.
+- With an expanded [dataset](/assets/larger%20dataset.html) including additional features like height, weight, and abilities, Random Forests achieved 96% accuracy under the same conditions.
 - Stratification was applied to address imbalances in rare type combinations.
 
 ## Conclusion

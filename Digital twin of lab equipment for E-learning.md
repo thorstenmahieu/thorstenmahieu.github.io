@@ -57,6 +57,10 @@ The application provides:
 - An intuitive interface for performing basic tasks in electricity labs.
 - Functionality that meets the requirements for first-year students while mimicking the design of the actual equipment.
 
+<video src="/assets/demo_dtlabequipment.mp4" alt="demo of the application" width="screen-width" >
+    > A small demo of the digital twin application.
+
+
 ## Future Improvements
 
 - Add graphical enhancements, such as gridlines and labeled divisions on the oscilloscope.

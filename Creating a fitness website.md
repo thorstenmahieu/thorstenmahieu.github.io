@@ -23,9 +23,12 @@ As part of a group assignment, we developed a **fitness-themed web application**
 ## Features
 
 ### Website Pages
-1. Homepage:
+1. **Homepage**:
    - A welcoming and interactive homepage with a slideshow of images and content.
    - A navigation bar with links to different sections of the website.
+   
+  <img src="/assets/fitness_-_welcome.png" alt="screenshot of fitness website home page" width="screen-width" >
+    > A screenshot of the fitness website's home page
 2. **Exercise Library**:
    - A curated list of exercises with descriptions, images, and tips.
    - Search and filter options for exercise types (e.g., cardio, strength).
@@ -33,20 +36,27 @@ As part of a group assignment, we developed a **fitness-themed web application**
    - Products for sale include protein powders, protein bars, and other fitness-related items.
    - Shopping cart feature allowing users to add, remove, and review purchases.
    - Checkout process integrated with confirmation emails.
+  <img src="/assets/fitness_shop.png" alt="screenshot of the fitness webshop" width="screen-width" >
+    > A screenshot of the the fitness webshop
 4. **About Us**:
    - A dedicated page introducing the team behind the website.
    - Highlights our passion for fitness and technology.
 5. **Contact Us**: 
    - A form where users can fill in their name, email, and message. - Messages are sent directly to the team via email for quick responses.
-
-
-<img src="/assets/fitnesswebsite.png" alt="screenshot of fitness website home page" width="screen-width" >
-> A screenshot of the fitness website's home page
+  <img src="/assets/fitness_contact-us.png" alt="screenshot of the fitness webshop" width="screen-width" >
+    > A screenshot of the the contact page 
+6. **Log Activity**
+   - A page where registered users can log a fitness exercise activity.
+  <img src="/assets/fitness_log-activity.png" alt="screenshot of the fitness webshop" width="screen-width" >
+    > A screenshot of the the contact page 
 
 
 ### User Authentication
 - **Registration & Login**:
   - Users can create accounts and log in securely.
+ <img src="/assets/fitness_sign-up.png" alt="screenshot of the fitness webshop" width="screen-width" >
+  > A screenshot of the the sign up page 
+
 - **Verification Email**:
   - Upon registration, users receive a **custom HTML email** to verify their accounts.
 
