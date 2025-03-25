@@ -1,7 +1,7 @@
 ---
 language: en
 
-title: "Ideas"
+title: "Ideas relating to ICT"
 permalink: /ict-ideas
 ---
 
