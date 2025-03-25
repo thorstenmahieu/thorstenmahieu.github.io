@@ -15,7 +15,8 @@ permalink: projects/masters-thesis/
 ---
 {::comment} # AI-Based Pattern Recognition of Roman Architectural Decoration {:/comment}
 
-For my masters thesis, I focused on developing an **AI-based system** for recognizing and segmenting repetitive decorative patterns in Roman architectural elements, specifically from the ancient region of Asia Minor. This was a project in close collaboration with Julie Verlinden, a PhD student in ancient archeology, who provided the raw images for the dataset and archeologic literature.
+For my master’s thesis, I developed an AI-based system for recognizing and segmenting repetitive decorative patterns in Roman architectural elements, focusing on the ancient region of Asia Minor. This project was carried out in close collaboration with Julie Verlinden, a PhD student in ancient archaeology, who provided the raw image dataset and relevant archaeological literature.
+
 
 ## Objectives
 
