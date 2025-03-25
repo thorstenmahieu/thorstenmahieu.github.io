@@ -57,7 +57,7 @@ The application provides:
 - An intuitive interface for performing basic tasks in electricity labs.
 - Functionality that meets the requirements for first-year students while mimicking the design of the actual equipment.
 
-<video width="400" controls>
+<video width="600" controls>
  <source src="https://github.com/thorstenmahieu/thorstenmahieu.github.io/raw/main/assets/demo_dtlabequipment.mp4" type="video/mp4">
 </video>
    > A small demo of the digital twin application.
