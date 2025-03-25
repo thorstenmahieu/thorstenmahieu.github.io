@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: "Video ideas"
+permalink: /video-ideas/
+---
 - Videos about
   - History, culture and geography
     - History of Belgium
@@ -7,7 +11,7 @@
     - Flanders vs. Netherlands
     - Flanders vs. Wallonia
     - Genealogy
-    - (Zwarte Piet)
+    - *Zwarte Piet* (controversial)
     - Folk songs like "'k zag 2 beren"
     - Belgian cuisine
     - Chips flavors
