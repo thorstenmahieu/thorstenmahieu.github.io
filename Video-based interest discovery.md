@@ -34,7 +34,7 @@ This project is a **video-based interest discovery tool** designed to help users
    - This feature is particularly helpful for students considering career paths or selecting a new major.  
 
 5. **Reset Functionality**:  
-   - Users can reset their preferences at any time to explore new areas from scratch.  
+   - Users can reset their preferences at any time to explore new areas from scratch (serendipity).  
 
 ### Value Proposition for Users 
 
