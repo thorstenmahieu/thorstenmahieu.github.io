@@ -23,5 +23,6 @@ permalink: /ict-ideas
 - Making a custom Obsidian plugin
 - A year in review for each social media platform
 - Making a Discord bot
+- Making a custom startpage Chrome extension
 - Using Foodkey API to automatically save food diary to markdown
 
