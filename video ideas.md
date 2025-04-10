@@ -10,6 +10,7 @@ permalink: /video-ideas/
     - Duchy of Brabant today
     - Flanders vs. Netherlands
     - Flanders vs. Wallonia
+    - Brussels
     - Genealogy
     - *Zwarte Piet* (controversial)
     - Folk songs like "'k zag 2 beren"
