@@ -14,7 +14,8 @@ My curiosity spans both the scientific and humanistic realms. On the scientific 
 In the realm of social sciences, I’m drawn to history, geography, geopolitics, linguistics, and cultural studies. These interests help me understand societal structures, the evolution of cultures, and the dynamics of international relations. I am equally intrigued by philosophy, which challenges me to question the everyday and view the world from multiple perspectives.
 
 In the STEM (Science, Technology, Engineering and Mathematics) world I'm mostly interested in IT and computer science, as well as sustainable solutions. 
-In the world of computer science, I'm particularly drawn to artificial intelligence, data analysis, and full-stack development, as well as understanding how communication networks work. I enjoy tackling programming challenges and crafting solutions that blend creative problem-solving with analytical precision. I like AI because you can gain interesting (often visual) analytical insights  My academic projects have given me a solid technical foundation that I’m eager to build upon through practical, real-world applications.
+In the world of computer science, I'm particularly drawn to artificial intelligence, data analysis, and full-stack development, as well as understanding how communication networks work. I enjoy tackling programming challenges and crafting solutions that blend creative problem-solving with analytical precision. I like AI because you can gain interesting (often visual) analytical insights.
+My academic projects have given me a solid technical foundation that I’m eager to build upon through practical, real-world applications.
 
 Creatively, I have a deep appreciation for music. I enjoy listening to a wide range of [genres](https://volt.fm/user/70l2yye77flm7jrg), from classical to EDM, going over pop and rock. My interest in music also extends to music theory and music history. 
 
