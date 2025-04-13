@@ -35,7 +35,7 @@ The **BJT Curve Tracer** was initially a collaborative project for the "Mechatro
     - The program supports automated adjustments of base and collector currents in specified steps, captures data in real-time, and plots the curves dynamically.
     - Additional features include safe program stopping and easy retrieval of previous measurement data for analysis and comparison.
 
-<img src="/assets/eindfoto2_DSC_0562 2023-10-02.png" alt="screenshot of end result" width="screen-width" >
+<img src="/assets/project bjt curve tracer.png" alt="screenshot of end result" width="screen-width" >
 > A screenshot of the LabView application with the transistor curve
 
 This project served as an extensive application of LabVIEW for circuit analysis, requiring in-depth knowledge of both BJT characteristics and LabVIEW's graphical programming capabilities.
