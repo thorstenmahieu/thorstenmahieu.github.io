@@ -7,7 +7,8 @@ permalink: /ict-ideas
 
 - Running a private GPT with knowledge base using RAG
 - Mapping how my YouTube interests evolved over time
-- Creating a recommender system based on YouTube metadata
+- Analyzing Messenger data
+- Tracking expenses
 - Automatically mapping places I've been to on different administrative levels (country, region, city)
 - Making an average face and analyzing phenotypical differences between people from different regions in Belgium
 - Making a cloud server to host pictures, videos and notes
