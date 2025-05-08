@@ -52,6 +52,7 @@ This research provided a solid foundation for further exploration of pattern cla
 **Repository**: [GitHub - Pattern Detection](https://github.com/duster3000/pattern-detection-roman-architecture)  
 
 ---
+
 *Skills learned*: Computer vision, research, repeated pattern recognition
 *Project supervisor*: Toon Goedemé  
 *Time range*: September 2023 – June 2024  
