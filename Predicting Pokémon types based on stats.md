@@ -33,7 +33,7 @@ This group project involved designing a **machine learning pipeline** to predict
 3. **Validation and Metrics**:
    - Used train/test splits and k-fold cross-validation.
    - Evaluated models using accuracy, precision, recall, and F1-score.
-
+The entire pipeline has been coded in a Jupyter Notebook
 ## Results
 
 - For the [base dataset](/assets/main.html), Random Forests achieved the best accuracy (86%) for multilabel classification when predicting type combinations without considering order.
