@@ -2,7 +2,6 @@
 tags:
   - school-project
   - data-science
-  - machine-learning
   - artificial-intelligence
   - programming
 programming-language: MATLAB
