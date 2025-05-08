@@ -22,6 +22,8 @@ This project highlights the integration of digital design concepts and hardware 
   > A picture of the FPGA board with the hex number "CAFE" on it (51966 in decimal), showcasing it works.
 
 ---
+*Skills learned*: digital design, hardware design, VHDL, Vivado
+
 *Project supervisor*: Sammy Verslype
 
 *Completion date*: June 2023
