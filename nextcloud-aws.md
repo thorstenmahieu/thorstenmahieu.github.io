@@ -7,18 +7,23 @@ tags:
   - AWS
 
 layout: page
-title: "Nextcloud server on AWS"
+title: "Nextcloud Server on AWS"
 permalink: projects/nextcloud-aws/
 ---
 
-Because I wanted to experiment with AWS and Nextcloud, I am currently hosting a Nextcloud server on an AWS EC2 instance. 
-The setup included:
-- Setting up an Ubuntu AWS EC2 instance
-- Attaching an elastic IP
-- Allowing certain ports
-- Getting a (free) domain name
-- Installing Nextcloud
-- Enabling HTTPS
+As a hands-on exploration of **cloud computing** and **self-hosted file storage**, I set up a **Nextcloud server** on an **AWS EC2 instance**. This project allowed me to get familiar with Amazon Web Services and experiment with Nextcloud’s capabilities as a potential solution for private, scalable file management.
 
+### Setup Overview
+The deployment involved:
+- Launching an **Ubuntu EC2 instance**
+- Attaching an **Elastic IP** for consistent access
+- Configuring **firewall rules** to allow key ports
+- Registering a **free domain name**
+- Installing and configuring **Nextcloud**
+- Enabling **HTTPS** for secure access
 
-The reason I want to experiment with AWS is because I want to learn more about cloud computing platforms and I want to experiment with Nextcloud to discover its functionalities to maybe eventually use as a fully fledged home server for my family photos and videos, when I set one up.
+### Motivation
+I started this project to gain practical experience with AWS and deepen my understanding of cloud-based infrastructure. I also wanted to explore the potential of **Nextcloud** as a privacy-focused alternative to commercial cloud storage. My long-term goal is to eventually set up a **home server** for securely storing and sharing family photos and videos, and this project serves as a stepping stone in that direction.
+
+---
+Status: ongoing
