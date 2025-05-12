@@ -26,4 +26,5 @@ permalink: /ict-ideas
 - Making a Discord bot
 - Making a custom startpage Chrome extension
 - Using Foodkey API to automatically save food diary to markdown
+- Soundboard Chrome extention
 
