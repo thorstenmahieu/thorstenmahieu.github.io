@@ -5,8 +5,9 @@ tags:
   - embedded-systems
   - iot
   - programming
+  - C
 programming-language: C
-layout: page
+layout: project
 title: "Time-Synchronized Embedded Device"
 permalink: /projects/time-synchronized-embedded-device
 ---
@@ -47,5 +48,3 @@ The project successfully enabled communication between the gateway and sensor no
 
 *Project team*: Thorsten Mahieu, Cédric Chau  
 *Time range*: November 2023 - December 2023  
-
-Back to [projects](projects.md)

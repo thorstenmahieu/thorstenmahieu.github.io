@@ -7,7 +7,7 @@ tags:
   - electronics
 
 programming-language: labview
-layout: page
+layout: project
 title: "BJT Curve Tracer in LabVIEW"
 permalink: projects/curve-tracer-for-bjt/
 ---
@@ -45,8 +45,6 @@ This project was less fun but it greatly improved my skills to work independentl
 
 ---
 
-*Project supervisor*: Jan Poelaert
-
-*Completion date*: September 2022
-
-Back to [projects](projects.md)
+*Project supervisor*: Jan Poelaert  
+*Completion date*: September 2022  
+*Rating*: 1/5  

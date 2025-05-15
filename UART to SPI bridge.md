@@ -7,7 +7,7 @@ tags:
   - electronics
 language: en
 programming-language: vhdl
-layout: page
+layout: project
 title: "UART-to-SPI Bridge"
 permalink: /projects/uart-to-spi-bridge
 ---
@@ -45,8 +45,5 @@ This project provided hands-on experience in interfacing communication protocols
 
 ---
 
-*Project supervisor*: Sammy Verslype
-
-*Completion date*: September 2023
-
-Back to [projects](projects.md)
+*Project supervisor*: Sammy Verslype  
+*Completion date*: September 2023  

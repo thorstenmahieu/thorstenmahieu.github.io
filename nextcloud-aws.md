@@ -1,12 +1,13 @@
 ---
 tags:
   - personal-project
+  - solo-project
   - cloud
   - server
   - backend
   - AWS
 
-layout: page
+layout: project
 title: "Nextcloud Server on AWS"
 permalink: projects/nextcloud-aws/
 ---

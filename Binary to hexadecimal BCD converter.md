@@ -4,8 +4,7 @@ tags:
   - FPGA
   - hardware
   - digital-design
-programming-language: vhdl
-layout: page
+layout: project
 title: "Binary to (hexa)decimal BCD converter"
 permalink: projects/binary-to-hexa-decimal-converter/
 ---
@@ -22,10 +21,6 @@ This project highlights the integration of digital design concepts and hardware 
   > A picture of the FPGA board with the hex number "CAFE" on it (51966 in decimal), showcasing it works.
 
 ---
-*Skills learned*: digital design, hardware design, VHDL, Vivado
-
-*Project supervisor*: Sammy Verslype
-
-*Completion date*: June 2023
-
-Back to [projects](projects.md)
+*Technologies used*: VHDL, Vivado, FPGA, Basys 3  
+*Project supervisor*: Sammy Verslype  
+*Completion date*: June 2023  

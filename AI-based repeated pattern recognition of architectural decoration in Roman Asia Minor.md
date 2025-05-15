@@ -10,7 +10,7 @@ tags:
   - python
 
 programming-language: python
-layout: page
+layout: project
 title: "AI-Based Pattern Detection of Roman Architectural Decoration"
 permalink: projects/masters-thesis/
 ---

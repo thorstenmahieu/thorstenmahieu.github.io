@@ -8,9 +8,10 @@ tags:
   - robotics
   - digital-twin
   - web-development
+  - python
+  - linux
 
-
-programming-language: python
+Technologies used: Rython, GTK3, ROS, Ubuntu, remote-desktop, Grafana, InfluxDB, Gazebo, Flask, jQuery, Chart.js
 layout: page
 title: "Software Development of HESC"
 permalink: projects/software-development-of-hesc/
@@ -23,8 +24,5 @@ As part of this work, I developed tools for visualizing safety cases using Pytho
 Due to the project’s non-disclosure agreement (NDA), further details cannot be disclosed. However, the project emphasized software design, real-time data analysis, and user-centered visualization in the context of safety-critical systems.
 
 ---
-
 *Project supervisor*: Laure Buysse  
-*Time Range*: February 2024 - August 2024
-
-Back to [projects](projects.md)
+*Time Range*: February 2024 - August 2024  

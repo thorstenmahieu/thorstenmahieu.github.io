@@ -1,6 +1,6 @@
 ---
 language: en
-
+layout: page
 title: "Ideas relating to ICT"
 permalink: /ict-ideas
 ---

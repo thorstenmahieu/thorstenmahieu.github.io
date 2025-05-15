@@ -76,6 +76,5 @@ This project successfully addressed the challenges of limited lab access by prov
 ---
 
 *Project team*: Thorsten Mahieu, Cédric Chau  
-*Time range*: February - May 2023
-
-Back to [projects](projects.md)
+*Time range*: February - May 2023  
+*Rating*: 4/5  

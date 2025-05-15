@@ -5,7 +5,7 @@ tags:
   - artificial-intelligence
   - programming
 programming-language: MATLAB
-layout: page
+layout: project
 title: "Monte Carlo Simulation to Remove Spectral Leakage"
 permalink: projects/spectral-leakage-removal/
 ---
@@ -51,5 +51,3 @@ This project demonstrated the importance of advanced spectral leakage removal te
 ---
 
 *Time range*: October - November 2023  
-
-Back to [projects](projects.md)

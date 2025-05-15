@@ -44,8 +44,5 @@ This project demonstrated the integration of digital signal generation and seria
 
 ---
 
-*Project supervisor*: Sammy Verslype
-
-*Completion date*: September 2023
-
-Back to [projects](projects.md)
+*Project supervisor*: Sammy Verslype  
+*Completion date*: September 2023  

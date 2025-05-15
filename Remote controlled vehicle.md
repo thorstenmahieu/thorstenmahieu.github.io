@@ -12,12 +12,13 @@ tags:
   - electronics
   - analog-design
   - digital-design
+  - mobile-app-development
+  - database
 programming-language: dart, sql, vhdl
-layout: page
+layout: project
 title: "Remote-Controlled, Sensor-Equipped Omnidirectional Vehicle"
 permalink: projects/remote-controlled-vehicle/
 ---
-{::comment} # Remote-Controlled, Sensor-Equipped Omnidirectional Vehicle {:/comment}
 
 This group project involved designing a remote-controlled vehicle equipped with sensors for obstacle detection and data recording. The system was implemented using a Raspberry Pi, FPGA board, and analog electronics, with a mobile app for wireless control.
 
@@ -61,8 +62,5 @@ This project demonstrated effective teamwork and the integration of software, di
 
 ---
 
-*Project team*: Thorsten Mahieu, Karel Debedts, Timon Callens
-
-*Time range*: September - December 2022
-
-Back to [projects](projects.md)
+*Project team*: Thorsten Mahieu, Karel Debedts, Timon Callens  
+*Time range*: September - December 2022  

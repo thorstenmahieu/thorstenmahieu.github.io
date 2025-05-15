@@ -10,7 +10,7 @@ tags:
   - hardware
   - electronics
 programming-language: python
-layout: page
+layout: project
 title: "Smart (IoT) Bridge"
 permalink: /projects/smart-iot-bridge
 ---
@@ -42,7 +42,4 @@ The **Smart IoT Bridge** project was an invaluable experience in applying IoT an
 ---
 
 *Project team*: Thorsten Mahieu, Kilian Bryon, Guillaume Mertens, Korneel Zutterman, Emile Serreyn  
-*Time range*: September - December 2020
-
-Back to [projects](projects.md)
-
+*Time range*: September - December 2020  

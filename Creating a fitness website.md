@@ -6,7 +6,7 @@ tags:
   - programming
 
 programming-language: javascript, html, css, sql
-layout: page
+layout: project
 title: "Fitness website"
 permalink: projects/fitness-website/
 ---
@@ -87,8 +87,5 @@ As part of a group assignment, we developed a **fitness-themed web application**
 
 ---
 
-*Project team*: Arne Flipts, Cédric Chau, Felix D'Hoore, Thorsten Mahieu 
-
-*Time range*: March - May 2023
-
-Back to [projects](projects.md)
+*Project team*: Arne Flipts, Cédric Chau, Felix D'Hoore, Thorsten Mahieu  
+*Time range*: March - May 2023  

@@ -6,8 +6,9 @@ tags:
   - machine-learning
   - artificial-intelligence
   - programming
+  - python
 programming-language: python
-layout: page
+layout: project
 title: "Predicting Pokémon types based on stats"
 permalink: projects/pokémon-types-classification/
 ---
@@ -48,5 +49,3 @@ The project demonstrated that **Random Forests** provided the most accurate resu
 
 *Project team*: Thorsten Mahieu, Cédric Chau  
 *Time range*: March 2024 - May 2024  
-
-Back to [projects](projects.md)

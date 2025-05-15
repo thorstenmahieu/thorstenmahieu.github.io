@@ -4,9 +4,10 @@ tags:
   - DSP
   - embedded-systems
   - programming
+  - C
 
-programming-language: c
-layout: page
+programming-language: C
+layout: project
 title: "Programming DSP audio effect in C"
 permalink: projects/dsp-audio-effect/
 ---
@@ -56,6 +57,4 @@ The tremolo effect was successfully implemented, functioning as intended with re
 ---
 
 *Project supervisor*: Sammy Verslype  
-*Time range*: November - December 2023
-
-Back to [projects](projects.md)
+*Time range*: November - December 2023  

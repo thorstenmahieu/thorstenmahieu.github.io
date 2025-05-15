@@ -1,6 +1,6 @@
 ---
 title: "Analyzing Sint Maarten song traditions"
-layout: page
+layout: project
 permalink: projects/analyzing-sint-maarten-song-traditions/
 
 ---
