@@ -1,20 +1,39 @@
 ---
 layout: default
 ---
+<style>
+  .tag-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 0.5rem;
+}
 
+.tag-badge {
+  display: inline-block;
+  background-color: #eee;
+  color: #333;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+</style>
 <article class="post">
 
   <header class="post-header">
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
-{% if page.skills %}
+{% if page.tags %}
   <div id="tags-container">
-    <h2>Skills Learned</h2>
-    <ul>
-      {% for skill in page.tags %}
-        <li>{{ tag }}</li>
+    <h2>Tags</h2>
+    <div class="tag-badges">
+      {% for tag in page.tags %}
+        <span class=tag-badge>{{ tag }}</span>
       {% endfor %}
-    </ul>
+    </div>
   </div>
 {% endif %}
 
