@@ -2,18 +2,18 @@
 tags:
   - school-project
   - masters-thesis
-  - pattern-recognition
+  - pattern-detection
   - machine-learning
   - artificial-intelligence
   - computer-vision
   - programming
+  - python
 
 programming-language: python
 layout: page
-title: "AI-Based Pattern Recognition of Roman Architectural Decoration"
+title: "AI-Based Pattern Detection of Roman Architectural Decoration"
 permalink: projects/masters-thesis/
 ---
-{::comment} # AI-Based Pattern Recognition of Roman Architectural Decoration {:/comment}
 
 For my master’s thesis, I developed an AI-based system for recognizing and segmenting repetitive decorative patterns in Roman architectural elements, focusing on the ancient region of Asia Minor. This project was carried out in close collaboration with Julie Verlinden, a PhD student in ancient archaeology, who provided the raw image dataset and relevant archaeological literature.
 
@@ -53,7 +53,7 @@ This research provided a solid foundation for further exploration of pattern cla
 
 ---
 
-*Skills learned*: Computer vision, research, repeated pattern detection  
+*Technologies used*: Python, OpenCV, Scikit-image, Pytorch  
 *Project supervisor*: Toon Goedemé  
 *Time range*: September 2023 – June 2024  
 *Rating*: 3.5/5  
