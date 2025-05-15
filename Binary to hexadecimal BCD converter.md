@@ -4,6 +4,7 @@ tags:
   - FPGA
   - hardware
   - digital-design
+  - solo-project
 layout: project
 title: "Binary to (hexa)decimal BCD converter"
 permalink: projects/binary-to-hexa-decimal-converter/

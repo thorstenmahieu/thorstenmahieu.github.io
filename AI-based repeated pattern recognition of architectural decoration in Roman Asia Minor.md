@@ -8,6 +8,7 @@ tags:
   - computer-vision
   - programming
   - python
+  - solo-project
 
 programming-language: python
 layout: project

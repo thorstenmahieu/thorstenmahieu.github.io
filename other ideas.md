@@ -10,5 +10,4 @@ permalink: /other-ideas/
 - Categorizing my music by genre
 - Categorizing memes using tags
 - Saving Minecraft worlds to GitHub?
-- Transfering Minecraft worlds from iPad to computer
 

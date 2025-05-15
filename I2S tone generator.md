@@ -5,13 +5,13 @@ tags:
   - digital-design
   - hardware
   - electronics
+  - solo-project
 
 programming-language: vhdl 
-layout: page
+layout: project
 title: "Tone Generator with I2S Protocol"
 permalink: projects/i2s-tone-generator/
 ---
-{::comment} # Tone Generator with I2S Protocol {:/comment}
 
 This project involved designing and implementing a digital tone generator capable of producing sine and triangle waveforms. The tones are delivered via an **I2S interface** to an audio codec, which converts the digital signals into analog audio. The assignment emphasized working within the audible frequency range and integrating components into an FPGA-based system using VHDL.
 

@@ -3,6 +3,8 @@ tags:
   - school-project
   - mechatronics
   - labview
+  - group-work
+  - solo-project
   - programming
   - electronics
 

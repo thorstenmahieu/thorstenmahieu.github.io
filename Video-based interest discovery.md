@@ -3,7 +3,8 @@ tags:
   - personal-project  
   - software  
   - web-development  
-  - programming  
+  - programming
+  - solo-project
 
 layout: project  
 title: "Video-Based Interest Discovery"  

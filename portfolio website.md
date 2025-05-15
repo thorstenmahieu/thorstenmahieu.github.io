@@ -1,6 +1,7 @@
 ---
 tags:
   - personal-project
+  - solo-project
   - software
   - programming
   - web-development

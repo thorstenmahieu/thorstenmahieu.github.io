@@ -6,6 +6,7 @@ tags:
   - server
   - backend
   - AWS
+  - linux
 
 layout: project
 title: "Nextcloud Server on AWS"

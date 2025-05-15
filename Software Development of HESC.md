@@ -1,6 +1,7 @@
 ---
 tags: 
   - school-project
+  - solo-project
   - software
   - data-science
   - artificial-intelligence
@@ -12,7 +13,7 @@ tags:
   - linux
 
 Technologies used: Rython, GTK3, ROS, Ubuntu, remote-desktop, Grafana, InfluxDB, Gazebo, Flask, jQuery, Chart.js
-layout: page
+layout: project
 title: "Software Development of HESC"
 permalink: projects/software-development-of-hesc/
 ---

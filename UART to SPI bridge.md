@@ -5,6 +5,7 @@ tags:
   - hardware
   - digital-design
   - electronics
+  - solo-project
 language: en
 programming-language: vhdl
 layout: project
