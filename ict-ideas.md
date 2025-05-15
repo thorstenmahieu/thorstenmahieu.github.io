@@ -28,4 +28,5 @@ permalink: /ict-ideas
 - Using Foodkey API to automatically save food diary to markdown
 - Soundboard Chrome extention
 - Self-hosted recipe manager
+- Finding recurring motifs in music
 
