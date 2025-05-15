@@ -59,6 +59,4 @@ This research provided a solid foundation for further exploration of pattern cla
 *Time range*: September 2023 – June 2024  
 *Rating*: 3.5/5  
 
----
 
-Back to [projects](projects.md)
