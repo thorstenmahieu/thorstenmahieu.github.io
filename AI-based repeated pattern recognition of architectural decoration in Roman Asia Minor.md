@@ -56,5 +56,8 @@ This research provided a solid foundation for further exploration of pattern cla
 *Skills learned*: Computer vision, research, repeated pattern detection  
 *Project supervisor*: Toon Goedemé  
 *Time range*: September 2023 – June 2024  
-*Rating*: 3.5/5
+*Rating*: 3.5/5  
+
+---
+
 Back to [projects](projects.md)
