@@ -23,11 +23,11 @@ In short, I have a wide range of interests. I enjoy learning how the world works
 
 ## Hobbies
 My hobbies are diverse and reflect my broad interests.
-I love working on personal coding [projects](projects.md), from building portfolio websites to experimenting with AI-driven side projects.
+I love working on personal **coding [projects](projects.md)**, from building portfolio websites to experimenting with AI-driven side projects.
 I also enjoy creative pursuits like playing the piano, something I actively learn through lessons, and [composing](https://musescore.com/user/7253706) music. Cooking and baking are other passions of mine; I love experimenting with healthy, nutritious recipes. Additionally, I’m an avid consumer of thought-provoking [films](https://letterboxd.com/thorst2001/) and series, as well as educational and entertaining YouTube content, mostly about aforementioned interests, as well as internet culture. These activities not only provide relaxation but also continually inspire my creativity and drive for lifelong learning.
 
 ## Personality
-I am a calm and introspective individual with a strong analytical mind and a passion for continuous learning. My personality aligns with the [INTP](https://www.16personalities.com/intp-personality) type: curious, logical, and driven to explore complex ideas. I value personal development and enjoy creating tools and solutions that help others understand themselves and the world better. I am both creative and methodical, always seeking to balance innovative ideas with practical, data-driven approaches.
+I am a calm and introspective individual with a strong analytical mind and a passion for continuous learning. My personality aligns with the **[INTP](https://www.16personalities.com/intp-personality)** type: curious, logical, and driven to explore complex ideas. I value personal development and enjoy creating tools and solutions that help others understand themselves and the world better. I am both creative and methodical, always seeking to balance innovative ideas with practical, data-driven approaches.
 
 ## Conclusion
 In summary, I am a versatile and driven individual with a broad range of interests and skills. I am committed to learning, creating, and collaborating to drive technological innovation and cultural enrichment. Whether I’m diving into the depths of AI research or developing user-friendly web applications, I strive to make a positive impact on society.
