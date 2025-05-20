@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Hi, I'm Thorsten. 
-I recently graduated in Industrial Engineering with a specialization in Electronics-ICT from KU Leuven. I'm passionate about using technology to explore, understand, and improve the world around me.
+I recently graduated in Industrial Engineering with a specialization in [Electronics-ICT](https://onderwijsaanbod.kuleuven.be/opleidingen/n/SC_57372443.htm) from KU Leuven. I'm passionate about using technology to explore, understand, and improve the world around me.
 
 ## Interests
 
