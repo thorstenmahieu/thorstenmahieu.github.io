@@ -8,7 +8,6 @@ tags:
 - data-analysis
 - programming
 - python
-- 
 ---
 
 [GitHub repo](https://github.com/duster3000/youtube_history_analysis_python)
