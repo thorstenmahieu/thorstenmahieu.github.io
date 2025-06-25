@@ -25,7 +25,7 @@ permalink: /ict-ideas
 - A year in review for each social media platform
 - Making a Discord bot
 - Making a custom startpage Chrome extension
-- Using Foodkey API to automatically save food diary to markdown
+- Using Fatsecret API to automatically save food diary to markdown
 - Soundboard Chrome extention
 - Self-hosted recipe manager
 - Finding recurring motifs in music
