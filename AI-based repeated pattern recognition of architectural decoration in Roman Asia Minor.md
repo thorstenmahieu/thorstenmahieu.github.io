@@ -52,7 +52,8 @@ The project was an internal thesis hosted at KU Leuven, Campus De Nayer. Since t
 This research provided a solid foundation for further exploration of pattern classification and cross-regional comparisons in Roman architecture. While refinement is needed to enhance segmentation consistency, the project successfully bridged AI and historical studies, paving the way for future interdisciplinary research.
 
 **Repository**: [GitHub - Pattern Detection](https://github.com/duster3000/pattern-detection-roman-architecture)  
-[Thesis text](https://1drv.ms/b/c/f8cdfc1d73dd7ec2/EQ3DHHoqkJBOksVw-NIGY30BdCXc80pnfua1T4WU6sg1Nw?e=3FBJbE)
+[Thesis text](https://1drv.ms/b/c/f8cdfc1d73dd7ec2/EQ3DHHoqkJBOksVw-NIGY30BdCXc80pnfua1T4WU6sg1Nw?e=3FBJbE)  
+
 ---
 
 *Technologies used*: Python, OpenCV, Scikit-image, Pytorch  
