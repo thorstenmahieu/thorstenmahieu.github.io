@@ -33,14 +33,16 @@ permalink: /video-ideas/
   - Society and Politics
     - [Political internationals](https://rationalwiki.org/wiki/Political_internationals)  
     - Generations (gen X, Y, Z, etc.)
-    - The problem with education
+    - The problem with the education system
     - Subcultures
+    - Gender wars are pointless
     - (Israel)
     
   - Technology 
     - Cryptography
     - (Online) Platforms
     - Accountification
+    - pros and cons of Gen. AI
 
   - other
     - Types of irony

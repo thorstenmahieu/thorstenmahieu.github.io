@@ -7,7 +7,7 @@ tags:
   - web-development
 programming-language: html, css, javascript
 layout: project
-title: "Creating a portfolio website"
+title: "Portfolio website"
 permalink: projects/portfolio-website/
 ---
 
