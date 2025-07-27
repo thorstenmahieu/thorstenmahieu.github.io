@@ -29,4 +29,7 @@ permalink: /ict-ideas
 - Soundboard Chrome extention
 - Self-hosted recipe manager
 - Finding recurring motifs in music
+- MCP server
+- Search images with OCR 
+- Clustering of meme images (color histogram-based)
 

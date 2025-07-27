@@ -9,7 +9,7 @@ tags:
 
 programming-language: vhdl 
 layout: project
-title: "Tone Generator with I2S Protocol"
+title: "I2S Tone generator"
 permalink: projects/i2s-tone-generator/
 ---
 
