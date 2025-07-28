@@ -7,6 +7,7 @@ tags:
 - personal-project
 - solo-project
 - data-analysis
+- data-visualization
 - programming
 ---
 

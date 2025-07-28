@@ -3,6 +3,8 @@ tags:
   - group-work
   - school-project
   - web-development
+  - frontend
+  - backend
   - programming
 
 programming-language: Javascript, SQL

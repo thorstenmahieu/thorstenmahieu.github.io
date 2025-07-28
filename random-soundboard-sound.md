@@ -7,6 +7,7 @@ tags:
 - personal-project
 - solo-project
 - web-development
+- frontend
 - web-scraping
 - programming
 ---

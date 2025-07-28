@@ -9,6 +9,8 @@ tags:
   - robotics
   - digital-twin
   - web-development
+  - data-visualization
+  - frontend
   - Linux
 
 layout: project

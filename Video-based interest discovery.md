@@ -2,7 +2,9 @@
 tags:  
   - personal-project  
   - software  
-  - web-development  
+  - web-development
+  - frontend
+  - backend  
   - programming
   - solo-project
 
@@ -48,7 +50,7 @@ This project is a **video-based interest discovery tool** designed to help users
 ### Current Implementation 
 
 - **Backend**: Node.js  
-- **Frontend**: Bootstrap, HTML, CSS  
+- **Frontend**: Bootstrap, HTML, CSS, Javascript  
 - **Video Source**: YouTube API  
 
 This tool is an innovative way to make learning intuitive, personalized, and exploratory, helping users grow intellectually while guiding them toward meaningful pursuits.  
