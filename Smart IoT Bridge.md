@@ -6,10 +6,10 @@ tags:
   - programming
   - embedded-systems
   - software
-  - iot
+  - IoT
   - hardware
   - electronics
-programming-language: python
+programming-language: Python
 layout: project
 title: "Smart (IoT) Bridge"
 permalink: /projects/smart-iot-bridge

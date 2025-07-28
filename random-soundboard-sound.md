@@ -2,14 +2,13 @@
 title: "Random Soundboard Sound Player"
 layout: project
 permalink: projects/random-soundboard-sound-player/
+programming-language: Python, Javascript
 tags: 
 - personal-project
 - solo-project
-- web development
-- web scraping
+- web-development
+- web-scraping
 - programming
-- python
-- javascript
 ---
 
 In this fun little side-project I created a HTML page with a button that takes a random (meme) sound from the site MyInstants and plays it when the button is pressed. I added some of my favorites, but I am adding functionality to scrape sounds from the site itself.

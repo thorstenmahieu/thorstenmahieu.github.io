@@ -4,7 +4,6 @@ tags:
   - DSP
   - embedded-systems
   - programming
-  - C
   - solo-project
 
 programming-language: C

@@ -7,6 +7,7 @@ tags:
   - solo-project
 
 layout: project  
+programming-language: Javascript
 title: "Video-Based Interest Discovery"  
 permalink: projects/video-based-interest-discovery/  
 ---  
@@ -47,7 +48,7 @@ This project is a **video-based interest discovery tool** designed to help users
 ### Current Implementation 
 
 - **Backend**: Node.js  
-- **Frontend**: Bootstrap  
+- **Frontend**: Bootstrap, HTML, CSS  
 - **Video Source**: YouTube API  
 
 This tool is an innovative way to make learning intuitive, personalized, and exploratory, helping users grow intellectually while guiding them toward meaningful pursuits.  

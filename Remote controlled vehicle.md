@@ -6,7 +6,7 @@ tags:
   - programming
   - embedded-systems
   - software
-  - iot
+  - IoT
   - hardware
   - FPGA
   - electronics
@@ -14,7 +14,7 @@ tags:
   - digital-design
   - mobile-app-development
   - database
-programming-language: dart, sql, vhdl
+programming-language: Dart, SQL
 layout: project
 title: "Remote-Controlled, Sensor-Equipped Omnidirectional Vehicle"
 permalink: projects/remote-controlled-vehicle/

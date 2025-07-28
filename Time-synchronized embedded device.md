@@ -3,9 +3,8 @@ tags:
   - group-work
   - school-project
   - embedded-systems
-  - iot
+  - IoT
   - programming
-  - C
 programming-language: C
 layout: project
 title: "Time-Synchronized Embedded Device"

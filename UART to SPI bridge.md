@@ -7,7 +7,7 @@ tags:
   - electronics
   - solo-project
 language: en
-programming-language: vhdl
+programming-language:
 layout: project
 title: "UART-to-SPI Bridge"
 permalink: /projects/uart-to-spi-bridge

@@ -6,8 +6,7 @@ tags:
   - machine-learning
   - artificial-intelligence
   - programming
-  - python
-programming-language: python
+programming-language: Python
 layout: project
 title: "Predicting Pokémon types based on stats"
 permalink: projects/pokémon-types-classification/

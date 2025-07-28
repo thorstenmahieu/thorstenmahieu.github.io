@@ -6,10 +6,12 @@ permalink: projects/
 ---
 
 <!-- Dropdown Filter -->
-<label for="tag-filter">Filter by Tag:</label>
+<label for="tag-filter">Filter by tag:</label>
 <select id="tag-filter">
-  <option value="all" selected>All Tags</option>
+  <option value="all" selected>All</option>
 </select>
+
+
 
 <!-- Projects List -->
 <ul id="projects-list">
@@ -36,10 +38,12 @@ document.addEventListener('DOMContentLoaded', function () {
   });
 
   // Add tags to the dropdown as options
-  uniqueTags.forEach(tag => {
+  const sortedTags = Array.from(uniqueTags).sort((a, b) => a.localeCompare(b, undefined, { sensitivity: 'base' }));
+
+  sortedTags.forEach(tag => {
     const option = document.createElement('option');
     option.value = tag;
-    option.textContent = tag.charAt(0).toUpperCase() + tag.slice(1); // Capitalize first letter
+    option.textContent = tag.replace(/-/g, ' ');
     tagDropdown.appendChild(option);
   });
 

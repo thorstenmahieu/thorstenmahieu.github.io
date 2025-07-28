@@ -7,10 +7,9 @@ tags:
   - artificial-intelligence
   - computer-vision
   - programming
-  - python
   - solo-project
 
-programming-language: python
+programming-language: Python
 layout: project
 title: "AI-Based Repeated Pattern Detection of Roman Architectural Decoration"
 permalink: projects/masters-thesis/

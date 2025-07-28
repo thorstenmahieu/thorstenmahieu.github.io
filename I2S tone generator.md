@@ -7,7 +7,6 @@ tags:
   - electronics
   - solo-project
 
-programming-language: vhdl 
 layout: project
 title: "I2S Tone generator"
 permalink: projects/i2s-tone-generator/

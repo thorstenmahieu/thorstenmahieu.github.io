@@ -5,7 +5,6 @@ tags:
   - programming
   - digital-twin
   - software
-  - C#
   - desktop-app-development
 
 programming-language: C#

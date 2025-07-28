@@ -8,7 +8,7 @@ tags:
   - programming
   - electronics
 
-programming-language: labview
+programming-language: LabVIEW
 layout: project
 title: "BJT Curve Tracer in LabVIEW"
 permalink: projects/curve-tracer-for-bjt/

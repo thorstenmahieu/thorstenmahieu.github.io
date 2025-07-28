@@ -5,7 +5,7 @@ tags:
   - web-development
   - programming
 
-programming-language: javascript, html, css, sql
+programming-language: Javascript, SQL
 layout: project
 title: "Fitness website"
 permalink: projects/fitness-website/

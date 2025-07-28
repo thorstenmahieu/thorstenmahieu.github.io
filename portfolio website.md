@@ -5,7 +5,7 @@ tags:
   - software
   - programming
   - web-development
-programming-language: html, css, javascript
+programming-language: Javascript
 layout: project
 title: "Portfolio website"
 permalink: projects/portfolio-website/
