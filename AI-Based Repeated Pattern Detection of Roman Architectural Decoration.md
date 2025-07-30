@@ -35,6 +35,7 @@ The project was an internal thesis hosted at KU Leuven, Campus De Nayer. Since t
      - "Unsupervised Semantic Discovery Through Visual Patterns Detection."
      - "Repeated Pattern Detection Using CNN Activations."
    - Combined the strengths of both algorithms in a custom pipeline.
+   - Added preprocessing and did hyperparameter optimization.  
 3. **Pattern Segmentation**:
    - Accurately segmented horizontal patterns into individual units for further classification.
    - Addressed challenges like under- and over-segmentation through preprocessing techniques (e.g., filtering, contrast enhancement).
