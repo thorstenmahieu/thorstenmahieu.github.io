@@ -9,7 +9,7 @@ permalink: /school-projects/
 
 **Project work:** [Smart IoT Bridge](Smart IoT Bridge.md) (with 5)
 
-**Mechatronics lab:** Making a [curve tracer for BJT](curve tracer for BJT.md) with LABVIEW (started with 3, ended up alone)
+**Mechatronics lab:** Making a [curve tracer for BJT](BJT Curve Tracer.md) with LABVIEW (started with 3, ended up alone)
 
 ## 3rd year
 
@@ -26,11 +26,11 @@ permalink: /school-projects/
 - [Remote controlled vehicle](Remote controlled vehicle.md) (with 3)
 - [Digital twin of lab equipment for E-learning](Digital twin of lab equipment for E-learning.md) (with 2)
 
-**Web technology:** [Creating a fitness website](Creating a fitness website.md) (with 4)
+**Web technology:** [Creating a fitness website](fitness-website.md) (with 4)
 
 ## 4th year
 
-**Applied DSP:** [MATLAB algorithm to remove spectral leakage](MATLAB algorithm to remove spectral leakage.md)
+**Applied DSP:** [MATLAB algorithm to remove spectral leakage](MATLAB Monte Carlo Simulation to Remove Spectral Leakage.md)
 
 **Embedded DSP:** [Programming DSP audio effect in C](Programming DSP audio effect in C.md)
 
