@@ -38,7 +38,7 @@ permalink: /school-projects/
 
 **Machine Learning:** [Predicting Pokémon types based on stats](Predicting Pokémon types based on stats.md)  (with 2)
 
-**Master's thesis:** [AI-based repeated pattern recognition of architectural decoration in Roman Asia Minor](AI-based repeated pattern recognition of architectural decoration in Roman Asia Minor.md)
+**Master's thesis:** [AI-based repeated pattern recognition of architectural decoration in Roman Asia Minor](AI-Based Repeated Pattern Detection of Roman Architectural Decoration.md)
 
 **Project lab:** [Software Development of Human-Centered Executable Safety Cases](Software Development of HESC.md)
 

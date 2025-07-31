@@ -8,7 +8,7 @@ tags:
   - computer-vision
   - programming
   - solo-project
-
+Rating: 3.5/5
 programming-language: Python
 layout: project
 title: "AI-Based Repeated Pattern Detection of Roman Architectural Decoration"
@@ -59,6 +59,5 @@ This research provided a solid foundation for further exploration of pattern cla
 *Technologies used*: Python, OpenCV, Scikit-image, Pytorch  
 *Project supervisor*: Toon Goedemé  
 *Time range*: September 2023 – June 2024  
-*Rating*: 3.5/5  
 
 
