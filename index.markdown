@@ -7,7 +7,7 @@ title: Welcome
 ---
 Hi, and welcome to my personal portfolio webpage!
 
-On the [projects](projects.md) page you’ll find a diverse collection of [school projects](school-projects.md) and personal explorations. These span completed work and ongoing developments. I also have a list with [ideas for the future](ict-ideas.md). You can also learn more about me on the [About Me page](about.markdown).
+On the [projects](projects.md) page you’ll find a diverse collection of [school projects](school-projects.md) and personal explorations. These span completed work and ongoing developments. I also have a list with [ideas for the future](ict-ideas.md). You can also learn more about me on the [About Me page](/about).
 
 Feel free to explore and discover what I’ve been working on!
 
