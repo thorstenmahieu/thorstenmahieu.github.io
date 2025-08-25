@@ -3,6 +3,7 @@ title: "Random Soundboard Sound Player"
 layout: project
 permalink: projects/random-soundboard-sound-player/
 programming-language: Python, Javascript
+rating: 4.5/5
 tags: 
 - personal-project
 - solo-project

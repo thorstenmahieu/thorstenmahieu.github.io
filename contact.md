@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+permalink: /contact
 ---
 
 
@@ -8,7 +9,7 @@ title: Contact
 Send me a message or feedback 🤗
 
 <form 
-    action="https://formspree.io/f/movazowz"
+    action="https://formspree.io/f/mgvlwbrg"
     method="POST"
     >
   

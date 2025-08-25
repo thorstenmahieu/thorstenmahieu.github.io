@@ -16,6 +16,7 @@ tags:
   - database
 programming-language: Dart, SQL
 layout: project
+rating: 3/5
 title: "Remote-Controlled, Sensor-Equipped Omnidirectional Vehicle"
 permalink: projects/remote-controlled-vehicle/
 ---

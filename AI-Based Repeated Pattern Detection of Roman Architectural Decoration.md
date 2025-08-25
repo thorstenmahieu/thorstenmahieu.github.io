@@ -8,7 +8,7 @@ tags:
   - computer-vision
   - programming
   - solo-project
-Rating: 3.5/5
+rating: 3.5/5
 programming-language: Python
 layout: project
 title: "AI-Based Repeated Pattern Detection of Roman Architectural Decoration"

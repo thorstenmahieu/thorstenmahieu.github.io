@@ -9,6 +9,7 @@ tags:
 
 layout: project
 title: "I2S Tone generator"
+rating: 2.5/5
 permalink: projects/i2s-tone-generator/
 ---
 

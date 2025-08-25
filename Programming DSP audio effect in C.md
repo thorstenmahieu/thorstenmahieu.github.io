@@ -10,6 +10,7 @@ programming-language: C
 layout: project
 title: "Programming DSP audio effect in C"
 permalink: projects/dsp-audio-effect/
+rating: 2.5/5
 ---
 {::comment} # Tremolo Audio Effect {:/comment}
 

@@ -8,6 +8,7 @@ tags:
 programming-language: C
 layout: project
 title: "Time-Synchronized Embedded Device"
+rating: 2/5
 permalink: /projects/time-synchronized-embedded-device
 ---
 

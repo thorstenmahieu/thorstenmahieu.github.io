@@ -10,6 +10,7 @@ language: en
 programming-language:
 layout: project
 title: "UART-to-SPI Bridge"
+rating: 2.5/5
 permalink: /projects/uart-to-spi-bridge
 ---
 

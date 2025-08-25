@@ -8,6 +8,7 @@ tags:
 layout: project
 title: "Binary to (hexa)decimal BCD converter"
 permalink: projects/binary-to-hexa-decimal-converter/
+rating: 2.5/5
 ---
 
 In this project, I developed a **binary-to-(hexa)decimal BCD converter** using **VHDL** and **Vivado**, implemented on a Digilent Basys 3 FPGA board. The system accepts a binary input through the board’s switches and displays the converted (hexa)decimal output on the 4-digit 7-segment LEDs.  

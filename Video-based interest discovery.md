@@ -11,6 +11,7 @@ tags:
 layout: project  
 programming-language: Javascript
 title: "Video-Based Interest Discovery"  
+rating: 4/5
 permalink: projects/video-based-interest-discovery/  
 ---  
 

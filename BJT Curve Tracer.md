@@ -12,6 +12,7 @@ programming-language: LabVIEW
 layout: project
 title: "BJT Curve Tracer in LabVIEW"
 permalink: projects/curve-tracer-for-bjt/
+rating: 1/5  
 ---
 {::comment} # BJT Curve Tracer in LabVIEW {:/comment}
 
@@ -49,4 +50,3 @@ This project was less fun but it greatly improved my skills to work independentl
 
 *Project supervisor*: Jan Poelaert  
 *Completion date*: September 2022  
-*Rating*: 1/5  

@@ -16,6 +16,7 @@ tags:
 layout: project
 title: "Software Development of HESC"
 programming-language: Python
+rating: 3/5
 permalink: projects/software-development-of-hesc/
 ---
 

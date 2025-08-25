@@ -11,6 +11,7 @@ programming-language: Javascript, SQL
 layout: project
 title: "Fitness website"
 permalink: projects/fitness-website/
+rating: 4/5
 ---
 
 As part of a group assignment, we developed a **fitness-themed web application**. The project allowed us to choose a theme and create a responsive, multi-functional website that adhered to REST principles. Our fitness website included features such as an **exercise library**, a **webshop**, and user authentication with verification emails.

@@ -12,9 +12,9 @@ permalink: projects/
 </select>
 
 
-
 <!-- Projects List -->
 <ul id="projects-list">
+
   {% for project in site.pages %}
     {% if project.tags %}
       <li class="project-item" data-tags="{{ project.tags | join: ',' }}">

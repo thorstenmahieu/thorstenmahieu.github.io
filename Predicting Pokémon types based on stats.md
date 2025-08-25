@@ -10,6 +10,7 @@ programming-language: Python
 layout: project
 title: "Predicting Pokémon types based on stats"
 permalink: projects/pokémon-types-classification/
+rating: 4/5
 ---
 {::comment} # Pokémon Type Classification {:/comment}
 
