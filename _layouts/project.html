@@ -46,8 +46,10 @@ layout: default
   <div class="badges-line">
     <span class="tag-label">Tags:</span>
     <div class="tag-badges" data-tags="{{ page.tags | join: ',' }}">
-      
-      
+      {% assign sorted_tags = page.tags | sort %}
+      {% for tag in sorted_tags %}
+        <span class="tag-badge">{{ tag | replace: "-", " " }}</span>
+      {% endfor %}
     </div>
   </div>
 {% endif %}
@@ -63,25 +65,3 @@ layout: default
   </div>
 
 </article>
-<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    const projectItem = document.querySelector('.tag-badges');
-    const uniqueTags = new Set();
-
-    // Collect all tags from the project items
-    const tags = projectItem.getAttribute('data-tags').split(',');
-      tags.forEach(tag => uniqueTags.add(tag.trim()));
-    
-
-    // Add tags to the dropdown as options
-    const sortedTags = Array.from(uniqueTags).sort((a, b) => a.localeCompare(b, undefined, { sensitivity: 'base' }));
-
-    sortedTags.forEach(tag => {
-      const tagBadge = document.createElement('span');
-      tagBadge.className = 'tag-badge';
-      tagBadge.textContent = tag.replace(/-/g, ' ');
-      projectItem.appendChild(tagBadge);
-    });
-  });
-
-</script>

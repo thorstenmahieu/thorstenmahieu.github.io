@@ -14,8 +14,8 @@ permalink: projects/
 
 <!-- Projects List -->
 <ul id="projects-list">
-
-  {% for project in site.pages %}
+  {% assign sorted_projects = site.pages | sort: "title" %}
+  {% for project in sorted_projects %}
     {% if project.tags %}
       <li class="project-item" data-tags="{{ project.tags | join: ',' }}">
         <a href="{{ project.url }}">{{ project.title }}</a>
