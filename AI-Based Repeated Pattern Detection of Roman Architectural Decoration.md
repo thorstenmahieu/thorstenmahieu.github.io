@@ -56,7 +56,7 @@ This research provided a solid foundation for further exploration of pattern cla
 
 ---
 
-*Technologies used*: Python, OpenCV, Scikit-image, Pytorch  
+*Technologies used*: Python, OpenCV, Scikit-image, PyTorch  
 *Project supervisor*: Toon Goedemé  
 *Time range*: September 2023 – June 2024  
 

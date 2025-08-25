@@ -45,7 +45,7 @@ The entire pipeline has been coded in a Jupyter Notebook
 
 The project demonstrated that **Random Forests** provided the most accurate results for predicting Pokémon types. Future steps could include exploring deep learning models, addressing missing data in the expanded dataset, and refining feature selection for improved performance.
 
----
-
+---  
+*Technologies used*: scikit-learn
 *Project team*: Thorsten Mahieu, Cédric Chau  
 *Time range*: March 2024 - May 2024  

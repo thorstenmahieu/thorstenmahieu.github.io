@@ -26,7 +26,7 @@ As part of this work, I developed tools for visualizing safety cases using Pytho
 
 Due to the project’s non-disclosure agreement (NDA), further details cannot be disclosed. However, the project emphasized software design, real-time data analysis, and user-centered visualization in the context of safety-critical systems.
 
-Technologies used: Python, GTK3, ROS, Ubuntu, remote-desktop, Grafana, InfluxDB, Gazebo, Flask, jQuery, Chart.js
+Technologies used: Python, XML, GTK3, ROS, Ubuntu, remote-desktop, Grafana, InfluxDB, Gazebo, Flask, jQuery, Chart.js
 
 
 ---

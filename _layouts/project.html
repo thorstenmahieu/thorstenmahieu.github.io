@@ -59,7 +59,9 @@ layout: default
 
   <div class="post-content">
     {{ content }}
-    <p><i>Rating</i>: {{ page.rating }}</p>
+    {% if page.rating %}
+      <p><i>Rating</i>: {{ page.rating }}</p>
+    {% endif %}
     <hr>
     <p>Back to <a href="/projects/">projects</a></p>
   </div>
