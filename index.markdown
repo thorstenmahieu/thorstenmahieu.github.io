@@ -11,5 +11,8 @@ On the [projects](projects.md) page you’ll find a diverse collection of [schoo
 
 Feel free to explore and discover what I’ve been working on!
 
+
+Currently undergoing an individual professional training/internship at [DeDuCo](https://www.deduco.be/).
+
 \- Thorsten
 
