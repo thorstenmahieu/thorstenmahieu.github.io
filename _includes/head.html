@@ -6,6 +6,45 @@
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.18/dist/katex.min.css">
   <link rel="shortcut icon" type="image/png" href="favicon.png">   
+  <style type="text/css">
+    .nav-dropdown {
+      position: relative;
+      display: inline-block;
+    }
+
+    .dropdown-toggle {
+      cursor: pointer;
+    }
+
+    .dropdown-menu {
+      display: none;
+      position: absolute;
+      background-color: white;
+      min-width: 180px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      z-index: 1000;
+      border-radius: 6px;
+      padding: 0.4rem 0;
+    }
+
+    .dropdown-item {
+      display: block;
+      padding: 0.4rem 1rem;
+      color: #292929;
+      text-decoration: none;
+      white-space: nowrap;
+    }
+
+    .dropdown-item:hover {
+      background-color: #f0f0f0;
+    }
+
+    /* Show dropdown on hover (desktop) */
+    .nav-dropdown:hover .dropdown-menu {
+      display: block;
+    }
+
+  </style>
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.18/dist/katex.min.js"></script>
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.18/dist/contrib/auto-render.min.js"></script>
   <script>
