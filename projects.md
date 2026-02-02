@@ -1,63 +1,52 @@
 ---
-
 layout: page
-title: "All Projects"
-permalink: projects/
+title: Projects
+permalink: /projects/
 ---
+<>
+<div class="timeline">
 
-<!-- Dropdown Filter -->
-<label for="tag-filter">Filter by tag:</label>
-<select id="tag-filter">
-  <option value="all" selected>All</option>
-</select>
+{% assign sorted = site.projects | sort: "year" | reverse %}
+{% for project in sorted %}
 
+  <div class="timeline-item project-card"
+       data-tags="{{ project.tags | join: ',' }}"
+       data-important="{{ project.important }}">
 
-<!-- Projects List -->
-<ul id="projects-list">
-  {% assign sorted_projects = site.pages | sort: "title" %}
-  {% for project in sorted_projects %}
-    {% if project.tags %}
-      <li class="project-item" data-tags="{{ project.tags | join: ',' }}">
-        <a href="{{ project.url }}">{{ project.title }}</a>
-      </li>
-    {% endif %}
-  {% endfor %}
-</ul>
+    <span class="timeline-year">{{ project.year }}</span>
 
+    <div class="card-content">
+      <h3>
+        <a href="{{ project.url }}">
+          {{ project.title }}
+        </a>
+      </h3>
+
+      <p>{{ project.excerpt }}</p>
+
+      <div class="project-tags">
+        {% for tag in project.tags %}
+          <span class="tag" data-tag="{{ tag }}">
+            {{ tag | replace: '-', ' ' }}
+          </span>
+        {% endfor %}
+      </div>
+    </div>
+
+  </div>
+
+{% endfor %}
+</div>
 <script>
-// Dynamically populate the dropdown with unique tags from projects
-document.addEventListener('DOMContentLoaded', function () {
-  const tagDropdown = document.getElementById('tag-filter');
-  const projectItems = document.querySelectorAll('.project-item');
-  const uniqueTags = new Set();
+document.querySelectorAll('.tag').forEach(tag => {
+  tag.addEventListener('click', () => {
+    const selected = tag.dataset.tag;
 
-  // Collect all tags from the project items
-  projectItems.forEach(item => {
-    const tags = item.getAttribute('data-tags').split(',');
-    tags.forEach(tag => uniqueTags.add(tag.trim()));
-  });
+    document.querySelectorAll('.project-card').forEach(card => {
+      const tags = card.dataset.tags.split(',');
 
-  // Add tags to the dropdown as options
-  const sortedTags = Array.from(uniqueTags).sort((a, b) => a.localeCompare(b, undefined, { sensitivity: 'base' }));
-
-  sortedTags.forEach(tag => {
-    const option = document.createElement('option');
-    option.value = tag;
-    option.textContent = tag.replace(/-/g, ' ');
-    tagDropdown.appendChild(option);
-  });
-
-  // Filter projects based on the selected tag
-  tagDropdown.addEventListener('change', function () {
-    const selectedTag = this.value;
-
-    projectItems.forEach(item => {
-      const tags = item.getAttribute('data-tags').split(',');
-      if (selectedTag === 'all' || tags.includes(selectedTag)) {
-        item.style.display = 'list-item';
-      } else {
-        item.style.display = 'none';
-      }
+      card.style.display =
+        tags.includes(selected) ? 'block' : 'none';
     });
   });
 });
