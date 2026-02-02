@@ -8,6 +8,7 @@ tags:
 
 programming-language: C
 layout: project
+start-date: 2023-11
 title: "Programming DSP audio effect in C"
 permalink: projects/dsp-audio-effect/
 rating: 2.5/5

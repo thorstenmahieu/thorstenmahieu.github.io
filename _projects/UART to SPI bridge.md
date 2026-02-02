@@ -10,6 +10,7 @@ language: en
 programming-language:
 layout: project
 title: "UART-to-SPI Bridge"
+start-date: 2022-11
 rating: 2.5/5
 permalink: /projects/uart-to-spi-bridge
 ---

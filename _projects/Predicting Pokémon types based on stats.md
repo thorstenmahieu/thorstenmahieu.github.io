@@ -8,6 +8,7 @@ tags:
   - programming
 programming-language: Python
 layout: project
+start-date: 2024-03
 title: "Predicting Pokémon types based on stats"
 permalink: projects/pokémon-types-classification/
 rating: 4/5

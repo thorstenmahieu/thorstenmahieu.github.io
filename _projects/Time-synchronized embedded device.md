@@ -8,6 +8,7 @@ tags:
 programming-language: C
 layout: project
 title: "Time-Synchronized Embedded Device"
+start-date: 2023-11
 rating: 2/5
 permalink: /projects/time-synchronized-embedded-device
 ---

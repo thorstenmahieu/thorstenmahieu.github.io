@@ -13,6 +13,9 @@ programming-language: Python
 layout: project
 title: "AI-Based Repeated Pattern Detection of Roman Architectural Decoration"
 permalink: projects/masters-thesis/
+size: large
+start-date: 2023-09
+
 ---
 
 For my master’s thesis, I developed an AI-based system to detect and segment repetitive decorative patterns in Roman architectural elements, with a focus on the ancient region of Asia Minor. The project combined computer vision techniques with archaeological research, bridging my dual interests in artificial intelligence and history.  

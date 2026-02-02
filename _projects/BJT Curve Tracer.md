@@ -12,6 +12,7 @@ programming-language: LabVIEW
 layout: project
 title: "BJT Curve Tracer in LabVIEW"
 permalink: projects/curve-tracer-for-bjt/
+start-date: 2021-02
 rating: 1/5  
 ---
 {::comment} # BJT Curve Tracer in LabVIEW {:/comment}

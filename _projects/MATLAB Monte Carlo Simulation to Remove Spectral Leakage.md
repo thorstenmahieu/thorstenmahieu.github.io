@@ -7,7 +7,9 @@ tags:
   - solo-project
 programming-language: MATLAB
 rating: 2/5 
+start-date: 2023-10
 layout: project
+size: small
 title: "MATLAB Monte Carlo Simulation to Remove Spectral Leakage"
 permalink: projects/spectral-leakage-removal/
 ---

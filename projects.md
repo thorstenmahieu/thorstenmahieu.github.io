@@ -6,14 +6,14 @@ permalink: /projects/
 <>
 <div class="timeline">
 
-{% assign sorted = site.projects | sort: "year" | reverse %}
+{% assign sorted = site.projects | sort: "start-date" | reverse %}
 {% for project in sorted %}
 
   <div class="timeline-item project-card"
        data-tags="{{ project.tags | join: ',' }}"
        data-important="{{ project.important }}">
 
-    <span class="timeline-year">{{ project.year }}</span>
+    <span class="timeline-year">{{ project.start-date }}</span>
 
     <div class="card-content">
       <h3>
