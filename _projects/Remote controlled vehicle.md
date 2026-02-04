@@ -1,26 +1,26 @@
 ---
 tags:
-  - school-project
-  - group-work
-  - mechatronics
-  - programming
-  - embedded-systems
-  - software
-  - IoT
-  - hardware
-  - FPGA
-  - electronics
-  - analog-design
-  - digital-design
-  - mobile-app-development
-  - database
+- mechatronics
+- programming
+- embedded-systems
+- software
+- IoT
+- hardware
+- FPGA
+- electronics
+- analog-design
+- digital-design
+- mobile-app-development
+- database
 programming-language: Dart, SQL
 layout: project
 size: large
 start-date: 2022-09
 rating: 3/5
-title: "Remote-Controlled, Sensor-Equipped Omnidirectional Vehicle"
+title: Remote-Controlled, Sensor-Equipped Omnidirectional Vehicle
 permalink: projects/remote-controlled-vehicle/
+project-type: school
+collaboration-type: group
 ---
 
 This group project involved designing a remote-controlled vehicle equipped with sensors for obstacle detection and data recording. The system was implemented using a Raspberry Pi, FPGA board, and analog electronics, with a mobile app for wireless control.

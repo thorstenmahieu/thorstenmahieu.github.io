@@ -1,17 +1,17 @@
 ---
 tags:
-  - group-work
-  - school-project
-  - embedded-systems
-  - IoT
-  - programming
+- embedded-systems
+- IoT
+- programming
 programming-language: C
 layout: project
-title: "Time-Synchronized Embedded Device"
+title: Time-Synchronized Embedded Device
 start-date: 2023-11
-size: small
+size: medium
 rating: 2/5
 permalink: /projects/time-synchronized-embedded-device
+project-type: school
+collaboration-type: group
 ---
 
 This project focused on developing a **time-synchronized embedded device** for IoT-based environmental monitoring. Using a LoRa network, a gateway and sensor node communicated wirelessly to collect temperature data efficiently while adhering to real-time constraints.

@@ -1,12 +1,10 @@
 ---  
 tags:  
-  - personal-project  
   - software  
   - web-development
   - frontend
   - backend  
   - programming
-  - solo-project
 
 layout: project  
 programming-language: Javascript
@@ -14,6 +12,8 @@ title: "Video-Based Interest Discovery"
 size: large
 start-date: 2024-11
 rating: 4/5
+project-type: personal
+collaboration-type: solo
 permalink: projects/video-based-interest-discovery/  
 ---  
 

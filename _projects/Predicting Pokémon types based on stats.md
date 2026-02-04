@@ -1,18 +1,18 @@
 ---
 tags:
-  - group-work
-  - school-project
-  - data-science
-  - machine-learning
-  - artificial-intelligence
-  - programming
+- data-science
+- machine-learning
+- artificial-intelligence
+- programming
 programming-language: Python
 layout: project
 start-date: 2024-03
 size: medium
-title: "Predicting Pokémon types based on stats"
+title: Predicting Pokémon types based on stats
 permalink: projects/pokémon-types-classification/
 rating: 4/5
+project-type: school
+collaboration-type: group
 ---
 
 This group project involved designing a **machine learning pipeline** to predict Pokémon types based on their stats. The dataset, "Pokémon with Stats," included 721 Pokémon with features like HP, Attack, Defense, Special Attack, Special Defense, and Speed.

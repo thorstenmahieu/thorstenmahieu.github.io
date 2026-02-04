@@ -1,19 +1,18 @@
 ---
 tags:
-  - personal-project
-  - solo-project
-  - cloud
-  - server
-  - backend
-  - AWS
-  - Linux
-
+- cloud
+- server
+- backend
+- AWS
+- Linux
 layout: project
-title: "Nextcloud Server on AWS"
+title: Nextcloud Server on AWS
 permalink: projects/nextcloud-aws/
 start-date: 2025-05
 size: small
 rating: 3.5/5
+project-type: personal
+collaboration-type: solo
 ---
 
 As a hands-on exploration of **cloud computing** and **self-hosted file storage**, I set up a **Nextcloud server** on an **AWS EC2 instance**. This project allowed me to get familiar with Amazon Web Services and experiment with Nextcloud’s capabilities as a potential solution for private, scalable file management.

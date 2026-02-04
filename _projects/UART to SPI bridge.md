@@ -1,19 +1,19 @@
 ---
 tags:
-  - school-project
-  - FPGA
-  - hardware
-  - digital-design
-  - electronics
-  - solo-project
+- FPGA
+- hardware
+- digital-design
+- electronics
 language: en
-programming-language:
+programming-language: null
 layout: project
-title: "UART-to-SPI Bridge"
+title: UART-to-SPI Bridge
 start-date: 2022-11
 size: small
 rating: 2.5/5
 permalink: /projects/uart-to-spi-bridge
+project-type: school
+collaboration-type: solo
 ---
 
 The **UART-to-SPI Bridge** project focused on developing a communication interface to convert 4-byte UART data packets into a 32-bit SPI frame. The design was implemented on the Digilent Basys 3 FPGA board, showcasing skills in VHDL, digital communication protocols, and modular system design.

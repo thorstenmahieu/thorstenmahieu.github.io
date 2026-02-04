@@ -1,18 +1,17 @@
 ---
 tags:
-  - school-project
-  - DSP
-  - embedded-systems
-  - programming
-  - solo-project
-
+- DSP
+- embedded-systems
+- programming
 programming-language: C
 layout: project
 start-date: 2023-11
 size: small
-title: "Programming DSP audio effect in C"
+title: Programming DSP audio effect in C
 permalink: projects/dsp-audio-effect/
 rating: 2.5/5
+project-type: school
+collaboration-type: solo
 ---
 
 This project involved implementing an audio effect of my choosing for an embedded DSP system. I chose the **tremolo effect**. The tremolo effect modulates the amplitude of an audio signal using a sinusoidal waveform, creating a pulsing sound effect. The project was divided into two phases: simulation in MATLAB and implementation on a DSP board.

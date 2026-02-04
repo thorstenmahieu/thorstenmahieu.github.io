@@ -1,19 +1,18 @@
 ---
 tags:
-  - school-project
-  - group-work
-  - programming
-  - digital-twin
-  - software
-  - desktop-app-development
-
+- programming
+- digital-twin
+- software
+- desktop-app-development
 programming-language: C#
 layout: project
 start-date: 2023-02
 size: large
-title: "Digital Twin of Lab Equipment for E-Learning"
+title: Digital Twin of Lab Equipment for E-Learning
 permalink: projects/digital-twin-of-lab-equipment/
 rating: 4.5/5
+project-type: school
+collaboration-type: group
 ---
 
 This project aimed to develop a **digital twin** of laboratory equipment to enhance e-learning for first-year engineering students. The application simulates the behavior and interface of real lab devices, enabling students to practice using a **function generator** and an **oscilloscope** outside of lab hours.

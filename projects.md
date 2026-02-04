@@ -8,11 +8,9 @@ permalink: /projects/
   <div class="filter-group">
     <label>Project Type:</label>
     <button class="filter-btn" data-filter-type="project-type" data-filter-value="">All</button>
-    <button class="filter-btn" data-filter-type="project-type" data-filter-value="personal-project">Personal</button>
-    <button class="filter-btn" data-filter-type="project-type" data-filter-value="school-project">School</button>
-    <button class="filter-btn" data-filter-type="project-type" data-filter-value="work-project">Work</button>
-    <button class="filter-btn" data-filter-type="project-type" data-filter-value="solo-project">Solo</button>
-    <button class="filter-btn" data-filter-type="project-type" data-filter-value="group-work">Group</button>
+    <button class="filter-btn" data-filter-type="project-type" data-filter-value="personal">Personal</button>
+    <button class="filter-btn" data-filter-type="project-type" data-filter-value="school">School</button>
+    <button class="filter-btn" data-filter-type="project-type" data-filter-value="work">Work</button>
   </div>
 
   <div class="filter-group">
@@ -40,6 +38,13 @@ permalink: /projects/
     <button class="filter-btn" data-filter-type="size" data-filter-value="medium">Medium</button>
     <button class="filter-btn" data-filter-type="size" data-filter-value="large">Large</button>
   </div>
+
+  <div class="filter-group">
+    <label>Collaboration Type:</label>
+    <button class="filter-btn" data-filter-type="collaboration" data-filter-value="">All</button>
+    <button class="filter-btn" data-filter-type="collaboration" data-filter-value="solo">Solo</button>
+    <button class="filter-btn" data-filter-type="collaboration" data-filter-value="group">Group</button>
+  </div>
 </div>
 
 <div class="timeline">
@@ -51,6 +56,8 @@ permalink: /projects/
        data-tags="{{ project.tags | join: ',' }}"
        data-language="{{ project.programming-language | downcase }}"
        data-size="{{ project.size | downcase }}"
+       data-project-type="{{ project.project-type }}"
+       data-collaboration="{{ project.collaboration-type | downcase }}"
        data-important="{{ project.important }}">
 
     <span class="timeline-year">{{ project.start-date }}</span>
@@ -101,6 +108,7 @@ const activeFilters = {
   'project-type': '',
   'language': '',
   'size': '',
+  'collaboration': '',
   'tag': []
 };
 
@@ -159,8 +167,8 @@ function filterProjects() {
     
     // Check project type filter
     if (activeFilters['project-type']) {
-      const cardTags = card.dataset.tags.split(',').map(t => t.trim());
-      show = show && cardTags.includes(activeFilters['project-type']);
+      const cardProjectType = card.dataset.projectType;
+      show = show && cardProjectType === activeFilters['project-type'];
     }
     
     // Check language filter
@@ -173,6 +181,13 @@ function filterProjects() {
     if (activeFilters['size'] && show) {
       const cardSize = (card.dataset.size || '').toLowerCase();
       show = show && cardSize === activeFilters['size'].toLowerCase();
+    }
+    
+    // Check collaboration filter
+    if (activeFilters['collaboration'] && show) {
+      const cardCollaboration = (card.dataset.collaboration || '').toLowerCase();
+      const collaborationTypes = cardCollaboration.split(',').map(c => c.trim());
+      show = show && collaborationTypes.includes(activeFilters['collaboration'].toLowerCase());
     }
     
     // Check tag filter (multiple tags with OR logic)

@@ -4,8 +4,10 @@ layout: project
 permalink: projects/youtube-watch-history-analysis/
 programming-language: Python
 rating: 4/5
-size: small
+size: medium
 start-date: 2025-05
+project-type: personal
+collaboration-type: solo
 tags: 
 - personal-project
 - solo-project

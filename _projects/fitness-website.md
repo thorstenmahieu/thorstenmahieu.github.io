@@ -1,19 +1,18 @@
 ---
 tags:
-  - group-work
-  - school-project
-  - web-development
-  - frontend
-  - backend
-  - programming
-
+- web-development
+- frontend
+- backend
+- programming
 programming-language: Javascript, SQL
 layout: project
-title: "Fitness website"
+title: Fitness website
 start-date: 2023-03
-size: large
+size: medium
 permalink: projects/fitness-website/
 rating: 4/5
+project-type: school
+collaboration-type: group
 ---
 
 As part of a group assignment, we developed a **fitness-themed web application**. The project allowed us to choose a theme and create a responsive, multi-functional website that adhered to REST principles. Our fitness website included features such as an **exercise library**, a **webshop**, and user authentication with verification emails.

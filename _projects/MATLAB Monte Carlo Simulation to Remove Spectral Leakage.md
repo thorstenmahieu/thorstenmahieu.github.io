@@ -1,17 +1,17 @@
 ---
 tags:
-  - school-project
-  - data-science
-  - artificial-intelligence
-  - programming
-  - solo-project
+- data-science
+- artificial-intelligence
+- programming
 programming-language: MATLAB
-rating: 2/5 
+rating: 2/5
 start-date: 2023-10
 layout: project
 size: small
-title: "MATLAB Monte Carlo Simulation to Remove Spectral Leakage"
+title: MATLAB Monte Carlo Simulation to Remove Spectral Leakage
 permalink: projects/spectral-leakage-removal/
+project-type: school
+collaboration-type: solo
 ---
 
 

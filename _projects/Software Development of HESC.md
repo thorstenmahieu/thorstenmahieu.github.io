@@ -1,25 +1,24 @@
 ---
-tags: 
-  - school-project
-  - solo-project
-  - software
-  - data-science
-  - artificial-intelligence
-  - programming
-  - robotics
-  - digital-twin
-  - web-development
-  - data-visualization
-  - frontend
-  - Linux
-
+tags:
+- software
+- data-science
+- artificial-intelligence
+- programming
+- robotics
+- digital-twin
+- web-development
+- data-visualization
+- frontend
+- Linux
 layout: project
-title: "Software Development of HESC"
+title: Software Development of HESC
 start-date: 2024-02
 size: large
 programming-language: Python
 rating: 3/5
 permalink: projects/software-development-of-hesc/
+project-type: school
+collaboration-type: solo
 ---
 
 This project was part of the Project Lab/Master’s Lab course, undertaken in collaboration with the M-Group at KU Leuven. The focus was on the software development and visualization of Human-Centered Executable Safety Cases (HESC) for autonomous systems.

@@ -1,21 +1,21 @@
 ---
 tags:
-  - school-project
-  - group-work
-  - mechatronics
-  - programming
-  - embedded-systems
-  - software
-  - IoT
-  - hardware
-  - electronics
+- mechatronics
+- programming
+- embedded-systems
+- software
+- IoT
+- hardware
+- electronics
 programming-language: Python
 layout: project
 start-date: 2020-09
 size: large
-title: "Smart (IoT) Bridge"
+title: Smart (IoT) Bridge
 rating: 3/5
 permalink: /projects/smart-iot-bridge
+project-type: school
+collaboration-type: group
 ---
 
 The **Smart (IoT) Bridge** was a group project completed with four other students as part of my studies. The project aimed to enhance the structural monitoring of bridges using IoT technology. Our solution involved measuring various physical parameters—such as vibrations, strain, and load—to detect potential structural issues early.
