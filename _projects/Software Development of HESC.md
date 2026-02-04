@@ -16,6 +16,7 @@ tags:
 layout: project
 title: "Software Development of HESC"
 start-date: 2024-02
+size: large
 programming-language: Python
 rating: 3/5
 permalink: projects/software-development-of-hesc/

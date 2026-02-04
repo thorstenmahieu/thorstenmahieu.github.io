@@ -32,6 +32,14 @@ permalink: /projects/
     <button class="filter-btn" data-filter-type="tag" data-filter-value="">All</button>
     <div id="tag-filters"></div>
   </div>
+
+  <div class="filter-group">
+    <label>Project Size:</label>
+    <button class="filter-btn" data-filter-type="size" data-filter-value="">All</button>
+    <button class="filter-btn" data-filter-type="size" data-filter-value="small">Small</button>
+    <button class="filter-btn" data-filter-type="size" data-filter-value="medium">Medium</button>
+    <button class="filter-btn" data-filter-type="size" data-filter-value="large">Large</button>
+  </div>
 </div>
 
 <div class="timeline">
@@ -42,6 +50,7 @@ permalink: /projects/
   <div class="timeline-item project-card"
        data-tags="{{ project.tags | join: ',' }}"
        data-language="{{ project.programming-language | downcase }}"
+       data-size="{{ project.size | downcase }}"
        data-important="{{ project.important }}">
 
     <span class="timeline-year">{{ project.start-date }}</span>
@@ -91,7 +100,8 @@ Array.from(allTags).sort().forEach(tag => {
 const activeFilters = {
   'project-type': '',
   'language': '',
-  'tag': ''
+  'size': '',
+  'tag': []
 };
 
 // Add event listeners to filter buttons
@@ -100,7 +110,24 @@ document.querySelectorAll('.filter-btn').forEach(btn => {
     const filterType = e.target.dataset.filterType;
     const filterValue = e.target.dataset.filterValue;
     
-    activeFilters[filterType] = filterValue;
+    if (filterType === 'tag') {
+      // For tags, toggle selection
+      if (filterValue === '') {
+        // Clear all tags
+        activeFilters['tag'] = [];
+      } else {
+        const index = activeFilters['tag'].indexOf(filterValue);
+        if (index > -1) {
+          activeFilters['tag'].splice(index, 1);
+        } else {
+          activeFilters['tag'].push(filterValue);
+        }
+      }
+    } else {
+      // For other filters, single selection
+      activeFilters[filterType] = filterValue;
+    }
+    
     updateActiveButtonStyles();
     filterProjects();
   });
@@ -111,7 +138,14 @@ function updateActiveButtonStyles() {
     const filterType = btn.dataset.filterType;
     const filterValue = btn.dataset.filterValue;
     
-    if (activeFilters[filterType] === filterValue) {
+    let isActive = false;
+    if (filterType === 'tag') {
+      isActive = filterValue === '' ? activeFilters['tag'].length === 0 : activeFilters['tag'].includes(filterValue);
+    } else {
+      isActive = activeFilters[filterType] === filterValue;
+    }
+    
+    if (isActive) {
       btn.classList.add('active');
     } else {
       btn.classList.remove('active');
@@ -132,13 +166,19 @@ function filterProjects() {
     // Check language filter
     if (activeFilters['language'] && show) {
       const cardLanguages = card.dataset.language.split(',').map(l => l.trim().toLowerCase());
-      show = show && cardLanguages.some(lang => lang.includes(activeFilters['language'].toLowerCase()));
+      show = show && cardLanguages.some(lang => lang === activeFilters['language'].toLowerCase());
     }
     
-    // Check tag filter
-    if (activeFilters['tag'] && show) {
+    // Check size filter
+    if (activeFilters['size'] && show) {
+      const cardSize = (card.dataset.size || '').toLowerCase();
+      show = show && cardSize === activeFilters['size'].toLowerCase();
+    }
+    
+    // Check tag filter (multiple tags with OR logic)
+    if (activeFilters['tag'].length > 0 && show) {
       const cardTags = card.dataset.tags.split(',').map(t => t.trim());
-      show = show && cardTags.includes(activeFilters['tag']);
+      show = show && activeFilters['tag'].some(selectedTag => cardTags.includes(selectedTag));
     }
     
     card.style.display = show ? 'block' : 'none';

@@ -9,6 +9,7 @@ programming-language: Javascript
 layout: project
 title: "Portfolio website"
 start-date: 2024-11
+size: small
 permalink: projects/portfolio-website/
 rating: 4.5/5
 ---

@@ -16,6 +16,7 @@ tags:
   - database
 programming-language: Dart, SQL
 layout: project
+size: large
 start-date: 2022-09
 rating: 3/5
 title: "Remote-Controlled, Sensor-Equipped Omnidirectional Vehicle"

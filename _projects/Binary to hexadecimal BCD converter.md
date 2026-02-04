@@ -9,7 +9,7 @@ layout: project
 title: "Binary to (hexa)decimal BCD converter"
 permalink: projects/binary-to-hexa-decimal-converter/
 start-date: 2022-11
-
+size: small
 rating: 2.5/5
 ---
 

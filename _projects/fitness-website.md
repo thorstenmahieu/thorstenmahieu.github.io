@@ -11,6 +11,7 @@ programming-language: Javascript, SQL
 layout: project
 title: "Fitness website"
 start-date: 2023-03
+size: large
 permalink: projects/fitness-website/
 rating: 4/5
 ---

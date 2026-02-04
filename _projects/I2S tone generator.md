@@ -9,6 +9,7 @@ tags:
 
 layout: project
 title: "I2S Tone generator"
+size: small
 rating: 2.5/5
 start-date: 2022-11
 permalink: projects/i2s-tone-generator/

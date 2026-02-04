@@ -11,6 +11,7 @@ tags:
 layout: project  
 programming-language: Javascript
 title: "Video-Based Interest Discovery" 
+size: large
 start-date: 2024-11
 rating: 4/5
 permalink: projects/video-based-interest-discovery/  

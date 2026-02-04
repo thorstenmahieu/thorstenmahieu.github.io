@@ -13,6 +13,7 @@ layout: project
 title: "BJT Curve Tracer in LabVIEW"
 permalink: projects/curve-tracer-for-bjt/
 start-date: 2021-02
+size: large
 rating: 1/5  
 ---
 

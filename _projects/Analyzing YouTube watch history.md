@@ -4,6 +4,7 @@ layout: project
 permalink: projects/youtube-watch-history-analysis/
 programming-language: Python
 rating: 4/5
+size: small
 start-date: 2025-05
 tags: 
 - personal-project

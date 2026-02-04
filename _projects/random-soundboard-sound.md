@@ -3,6 +3,7 @@ title: "Random Soundboard Sound Player"
 layout: project
 permalink: projects/random-soundboard-sound-player/
 programming-language: Javascript
+size: small
 start-date: 2025-07
 rating: 4.5/5
 tags: 

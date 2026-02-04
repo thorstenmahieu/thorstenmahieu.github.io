@@ -12,6 +12,7 @@ layout: project
 title: "Nextcloud Server on AWS"
 permalink: projects/nextcloud-aws/
 start-date: 2025-05
+size: small
 rating: 3.5/5
 ---
 

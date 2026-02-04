@@ -12,6 +12,7 @@ tags:
 programming-language: Python
 layout: project
 start-date: 2020-09
+size: large
 title: "Smart (IoT) Bridge"
 rating: 3/5
 permalink: /projects/smart-iot-bridge
