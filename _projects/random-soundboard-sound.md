@@ -2,7 +2,7 @@
 title: "Random Soundboard Sound Player"
 layout: project
 permalink: projects/random-soundboard-sound-player/
-programming-language: Python, Javascript
+programming-language: Javascript
 start-date: 2025-07
 rating: 4.5/5
 tags: 
@@ -18,6 +18,7 @@ In this fun little side-project I created a HTML page with a button that takes a
   
 ---  
 [GitHub repo](https://github.com/duster3000/random-soundboard-sound).  
----  
+
+---
 
 Status: ongoing

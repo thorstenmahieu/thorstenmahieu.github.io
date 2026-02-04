@@ -19,6 +19,7 @@ start-date: 2023-09
 ---
 
 For my master’s thesis, I developed an AI-based system to detect and segment repetitive decorative patterns in Roman architectural elements, with a focus on the ancient region of Asia Minor. The project combined computer vision techniques with archaeological research, bridging my dual interests in artificial intelligence and history.  
+
 This thesis was conducted in collaboration with Julie Verlinden, a PhD researcher in ancient archaeology, who provided the raw image dataset and key archaeological insights through relevant literature.  
 The project was an internal thesis hosted at KU Leuven, Campus De Nayer. Since the campus was over 100 km away, most of the work was carried out remotely. We coordinated progress through regular Microsoft Teams meetings, typically held every few weeks.
 

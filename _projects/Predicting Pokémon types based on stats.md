@@ -13,7 +13,6 @@ title: "Predicting Pokémon types based on stats"
 permalink: projects/pokémon-types-classification/
 rating: 4/5
 ---
-{::comment} # Pokémon Type Classification {:/comment}
 
 This group project involved designing a **machine learning pipeline** to predict Pokémon types based on their stats. The dataset, "Pokémon with Stats," included 721 Pokémon with features like HP, Attack, Defense, Special Attack, Special Defense, and Speed.
 

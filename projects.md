@@ -10,7 +10,9 @@ permalink: /projects/
     <button class="filter-btn" data-filter-type="project-type" data-filter-value="">All</button>
     <button class="filter-btn" data-filter-type="project-type" data-filter-value="personal-project">Personal</button>
     <button class="filter-btn" data-filter-type="project-type" data-filter-value="school-project">School</button>
-    <button class="filter-btn" data-filter-type="project-type" data-filter-value="group-work">Work</button>
+    <button class="filter-btn" data-filter-type="project-type" data-filter-value="work-project">Work</button>
+    <button class="filter-btn" data-filter-type="project-type" data-filter-value="solo-project">Solo</button>
+    <button class="filter-btn" data-filter-type="project-type" data-filter-value="group-work">Group</button>
   </div>
 
   <div class="filter-group">

@@ -15,7 +15,6 @@ permalink: projects/curve-tracer-for-bjt/
 start-date: 2021-02
 rating: 1/5  
 ---
-{::comment} # BJT Curve Tracer in LabVIEW {:/comment}
 
 The **BJT Curve Tracer** was initially a collaborative project for the "Mechatronics lab" course but ultimately became a solo endeavor since my teammates gave up on the major. This project involved developing a LabVIEW program to analyze the input and output characteristics of Bipolar Junction Transistors (BJTs) by generating characteristic curves, including the input ($$V_{BE}$$ vs. $$I_B$$) and output ($$V_{CE}$$ vs. $$I_C$$) curves.
 
