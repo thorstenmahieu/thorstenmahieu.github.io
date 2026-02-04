@@ -22,10 +22,14 @@ layout: default
     {{ content }}
     {% if page.rating %}
       <div class="rating-stars">
-        {% assign rating_value = page.rating | split: "/" | first | plus: 0 %}
+        {% assign rating_parts = page.rating | split: "/" | first %}
+        {% assign rating_value = rating_parts | times: 2 | round | divided_by: 2.0 %}
+        {% assign rating_half = rating_value | plus: 0.5 %}
         {% for i in (1..5) %}
           {% if i <= rating_value %}
             <span class="star filled">★</span>
+          {% elsif i <= rating_half %}
+            <span class="star half">⯪</span>
           {% else %}
             <span class="star empty">☆</span>
           {% endif %}

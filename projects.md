@@ -14,6 +14,21 @@ permalink: /projects/
   </div>
 
   <div class="filter-group">
+    <label>Project Size:</label>
+    <button class="filter-btn" data-filter-type="size" data-filter-value="">All</button>
+    <button class="filter-btn" data-filter-type="size" data-filter-value="small">Small</button>
+    <button class="filter-btn" data-filter-type="size" data-filter-value="medium">Medium</button>
+    <button class="filter-btn" data-filter-type="size" data-filter-value="large">Large</button>
+  </div>
+
+  <div class="filter-group">
+    <label>Collaboration Type:</label>
+    <button class="filter-btn" data-filter-type="collaboration" data-filter-value="">All</button>
+    <button class="filter-btn" data-filter-type="collaboration" data-filter-value="solo">Solo</button>
+    <button class="filter-btn" data-filter-type="collaboration" data-filter-value="group">Group</button>
+  </div>
+  
+  <div class="filter-group">
     <label>Programming Language:</label>
     <button class="filter-btn" data-filter-type="language" data-filter-value="">All</button>
     <button class="filter-btn" data-filter-type="language" data-filter-value="python">Python</button>
@@ -31,20 +46,6 @@ permalink: /projects/
     <div id="tag-filters"></div>
   </div>
 
-  <div class="filter-group">
-    <label>Project Size:</label>
-    <button class="filter-btn" data-filter-type="size" data-filter-value="">All</button>
-    <button class="filter-btn" data-filter-type="size" data-filter-value="small">Small</button>
-    <button class="filter-btn" data-filter-type="size" data-filter-value="medium">Medium</button>
-    <button class="filter-btn" data-filter-type="size" data-filter-value="large">Large</button>
-  </div>
-
-  <div class="filter-group">
-    <label>Collaboration Type:</label>
-    <button class="filter-btn" data-filter-type="collaboration" data-filter-value="">All</button>
-    <button class="filter-btn" data-filter-type="collaboration" data-filter-value="solo">Solo</button>
-    <button class="filter-btn" data-filter-type="collaboration" data-filter-value="group">Group</button>
-  </div>
 </div>
 
 <div class="timeline">
@@ -73,10 +74,14 @@ permalink: /projects/
 
       {% if project.rating %}
         <div class="rating-stars">
-          {% assign rating_value = project.rating | split: "/" | first | plus: 0 %}
+          {% assign rating_parts = project.rating | split: "/" | first %}
+          {% assign rating_value = rating_parts | times: 2 | round | divided_by: 2.0 %}
+          {% assign rating_half = rating_value | plus: 0.5 %}
           {% for i in (1..5) %}
             {% if i <= rating_value %}
               <span class="star filled">★</span>
+            {% elsif i <= rating_half %}
+              <span class="star half">⯪</span>
             {% else %}
               <span class="star empty">☆</span>
             {% endif %}
