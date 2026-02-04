@@ -26,7 +26,7 @@ permalink: /projects/
 
       <div class="project-tags">
         {% for tag in project.tags %}
-          <span class="tag" data-tag="{{ tag }}">
+          <span class="tag-badge" data-tag="{{ tag }}">
             {{ tag | replace: '-', ' ' }}
           </span>
         {% endfor %}
