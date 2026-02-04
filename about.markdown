@@ -7,6 +7,9 @@ permalink: /about/
 Hi, I'm Thorsten. 
 In 2024, I graduated in Industrial Engineering with a specialization in [Electronics-ICT](https://onderwijsaanbod.kuleuven.be/opleidingen/n/SC_57372443.htm) from KU Leuven, Bruges Campus. I'm passionate about using technology to explore, understand, and improve the world around me.
 
+<img src="/assets/foto-thorsten.jpg" alt="screenshot of end result" width="113px" >
+
+
 ## Interests
 
 My curiosity spans both the scientific and humanistic realms. 

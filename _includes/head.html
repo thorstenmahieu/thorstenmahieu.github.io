@@ -229,6 +229,26 @@
       flex-wrap: wrap;
       gap: 0.5rem;
     }
+
+    .rating-stars {
+      display: flex;
+      gap: 2px;
+      margin: 0.8rem 0;
+      font-size: 1.2rem;
+    }
+
+    .star {
+      display: inline-block;
+      line-height: 1;
+    }
+
+    .star.filled {
+      color: #ffc107;
+    }
+
+    .star.empty {
+      color: #ddd;
+    }
   </style>
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.18/dist/katex.min.js"></script>
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.18/dist/contrib/auto-render.min.js"></script>

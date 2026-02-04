@@ -71,6 +71,19 @@ permalink: /projects/
 
       <p>{{ project.excerpt }}</p>
 
+      {% if project.rating %}
+        <div class="rating-stars">
+          {% assign rating_value = project.rating | split: "/" | first | plus: 0 %}
+          {% for i in (1..5) %}
+            {% if i <= rating_value %}
+              <span class="star filled">★</span>
+            {% else %}
+              <span class="star empty">☆</span>
+            {% endif %}
+          {% endfor %}
+        </div>
+      {% endif %}
+
       <div class="project-tags">
         {% for tag in project.tags %}
           <span class="tag-badge" data-tag="{{ tag }}">
