@@ -10,6 +10,7 @@ title: BJT Curve Tracer in LabVIEW
 permalink: projects/curve-tracer-for-bjt/
 start-date: 2021-02
 size: medium
+status: finished
 rating: 1/5
 project-type: school
 collaboration-type: solo, group

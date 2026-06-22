@@ -18,6 +18,7 @@ programming-language: Python
 rating: 3/5
 permalink: projects/software-development-of-hesc/
 project-type: school
+status: finished
 collaboration-type: solo
 ---
 

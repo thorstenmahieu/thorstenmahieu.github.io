@@ -13,6 +13,7 @@ size: small
 rating: 2.5/5
 permalink: /projects/uart-to-spi-bridge
 project-type: school
+status: finished
 collaboration-type: solo
 ---
 

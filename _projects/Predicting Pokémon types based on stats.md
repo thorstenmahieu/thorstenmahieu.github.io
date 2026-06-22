@@ -12,6 +12,7 @@ title: Predicting Pokémon types based on stats
 permalink: projects/pokémon-types-classification/
 rating: 4/5
 project-type: school
+status: finished
 collaboration-type: group
 ---
 

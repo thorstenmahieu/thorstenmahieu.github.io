@@ -27,6 +27,14 @@ permalink: /projects/
     <button class="filter-btn" data-filter-type="collaboration" data-filter-value="solo">Solo</button>
     <button class="filter-btn" data-filter-type="collaboration" data-filter-value="group">Group</button>
   </div>
+
+  <div class="filter-group">
+    <label>Status:</label>
+    <button class="filter-btn" data-filter-type="status" data-filter-value="">All</button>
+    <button class="filter-btn" data-filter-type="status" data-filter-value="finished">Finished</button>
+    <button class="filter-btn" data-filter-type="status" data-filter-value="ongoing">Ongoing</button>
+    <button class="filter-btn" data-filter-type="status" data-filter-value="on-hold">On Hold</button>
+  </div>
   
   <div class="filter-group">
     <label>Programming Language:</label>
@@ -59,6 +67,7 @@ permalink: /projects/
        data-size="{{ project.size | downcase }}"
        data-project-type="{{ project.project-type }}"
        data-collaboration="{{ project.collaboration-type | downcase }}"
+       data-status="{{ project.status | downcase }}"
        data-important="{{ project.important }}">
 
     <span class="timeline-year">{{ project.start-date }}</span>
@@ -127,6 +136,7 @@ const activeFilters = {
   'language': '',
   'size': '',
   'collaboration': '',
+  'status': '',
   'tag': []
 };
 
@@ -206,6 +216,16 @@ function filterProjects() {
       const cardCollaboration = (card.dataset.collaboration || '').toLowerCase();
       const collaborationTypes = cardCollaboration.split(',').map(c => c.trim());
       show = show && collaborationTypes.includes(activeFilters['collaboration'].toLowerCase());
+    }
+    
+    // Check status filter
+    if (activeFilters['status'] && show) {
+      const cardStatus = (card.dataset.status || '').toLowerCase();
+      show = show && cardStatus === activeFilters['status'].toLowerCase();
+    } else if (!activeFilters['status'] && show) {
+      // Hide on-hold projects by default unless explicitly selected
+      const cardStatus = (card.dataset.status || '').toLowerCase();
+      show = show && cardStatus !== 'on-hold';
     }
     
     // Check tag filter (multiple tags with OR logic)

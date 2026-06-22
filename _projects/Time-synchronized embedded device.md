@@ -11,6 +11,7 @@ size: medium
 rating: 2/5
 permalink: /projects/time-synchronized-embedded-device
 project-type: school
+status: finished
 collaboration-type: group
 ---
 

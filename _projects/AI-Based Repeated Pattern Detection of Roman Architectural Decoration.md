@@ -13,6 +13,7 @@ title: AI-Based Repeated Pattern Detection of Roman Architectural Decoration
 permalink: projects/masters-thesis/
 size: large
 start-date: 2023-09
+status: finished
 project-type: school
 collaboration-type: solo
 ---

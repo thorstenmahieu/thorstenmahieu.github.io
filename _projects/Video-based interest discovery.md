@@ -14,6 +14,7 @@ start-date: 2024-11
 rating: 4/5
 project-type: personal
 collaboration-type: solo
+status: on-hold
 permalink: projects/video-based-interest-discovery/  
 ---  
 

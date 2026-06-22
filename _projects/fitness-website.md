@@ -11,6 +11,7 @@ start-date: 2023-03
 size: medium
 permalink: projects/fitness-website/
 rating: 4/5
+status: finished
 project-type: school
 collaboration-type: group
 ---

@@ -11,6 +11,7 @@ size: large
 title: Digital Twin of Lab Equipment for E-Learning
 permalink: projects/digital-twin-of-lab-equipment/
 rating: 4.5/5
+status: finished
 project-type: school
 collaboration-type: group
 ---

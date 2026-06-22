@@ -11,6 +11,7 @@ size: small
 title: MATLAB Monte Carlo Simulation to Remove Spectral Leakage
 permalink: projects/spectral-leakage-removal/
 project-type: school
+status: finished
 collaboration-type: solo
 ---
 

@@ -12,6 +12,7 @@ tags:
 - web-scraping
 - programming
 project-type: personal
+status: on-hold
 collaboration-type: solo
 ---
 

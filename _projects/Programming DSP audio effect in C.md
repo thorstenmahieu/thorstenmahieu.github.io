@@ -11,6 +11,7 @@ title: Programming DSP audio effect in C
 permalink: projects/dsp-audio-effect/
 rating: 2.5/5
 project-type: school
+status: finished
 collaboration-type: solo
 ---
 

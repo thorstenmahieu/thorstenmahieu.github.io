@@ -8,6 +8,7 @@ title: Binary to (hexa)decimal BCD converter
 permalink: projects/binary-to-hexa-decimal-converter/
 start-date: 2022-11
 size: small
+status: finished
 rating: 2.5/5
 project-type: school
 collaboration-type: solo

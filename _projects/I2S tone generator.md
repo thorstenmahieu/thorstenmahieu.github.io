@@ -11,6 +11,7 @@ rating: 2.5/5
 start-date: 2022-11
 permalink: projects/i2s-tone-generator/
 project-type: school
+status: finished
 collaboration-type: solo
 ---
 

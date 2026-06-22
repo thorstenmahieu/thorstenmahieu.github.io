@@ -7,6 +7,7 @@ rating: 4/5
 size: medium
 start-date: 2025-05
 project-type: personal
+status: on-hold
 collaboration-type: solo
 tags: 
 - personal-project

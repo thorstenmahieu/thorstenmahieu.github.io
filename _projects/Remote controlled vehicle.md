@@ -20,6 +20,7 @@ rating: 3/5
 title: Remote-Controlled, Sensor-Equipped Omnidirectional Vehicle
 permalink: projects/remote-controlled-vehicle/
 project-type: school
+status: finished
 collaboration-type: group
 ---
 
