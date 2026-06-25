@@ -238,6 +238,7 @@ function filterProjects() {
   });
 }
 
-// Initialize active button styles
+// Initialize active button styles and apply filters on first load
 updateActiveButtonStyles();
+filterProjects();
 </script>
